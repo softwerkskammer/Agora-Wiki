@@ -8,7 +8,7 @@ Da könnte man:
 - Unsinn hinschreiben.
 - `inline Code quoten`
 
-```
+```javascript
 "use strict";
 
 module.exports = function subdirs(req, res, next) {
