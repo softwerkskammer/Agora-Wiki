@@ -12,6 +12,7 @@
 
 
 ### Hotel Stromberg
+* [[StrombergAntwortAufAnfrage]]
 * Benjamin war schonmal da und hat es unabhängig davon stark empfohlen bekommen (besonders was die Kompetenz und Freundlichkeit des Personals anging)
 * 164 Zimmer, 17 Suiten
 * 15 Tagungsräume plus 500qm "Forum" das eigentlich 6 weitere Räume sind (flexible Wände etc)
