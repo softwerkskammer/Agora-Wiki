@@ -6,7 +6,7 @@ In Analogie zu den Londoner Code & Coffee Treffen hat der SoCraMOB den Code & Ca
 
 Ankündigungen zum Code&Cake in Münster werden über die Gruppe [SoCraMOB](http://www.softwerkskammer.org/groups/socramob) und den [Kalender der Softwerkskammer](http://www.softwerkskammer.org/activities/) verbreitet. Damit für jeden ein Stück Kuchen vorhanden ist, würden wir uns freuen, wenn Du dich beim Event als Gast einträgst.
 
-**Nächster Code'n'Cake am 30. August 2013.**
+**Nächster Code'n'Cake am [30. August 2013](http://www.softwerkskammer.org/activities/CodeAndCake-2013-08-30).**
 
 Bisherige Themen
 ---
