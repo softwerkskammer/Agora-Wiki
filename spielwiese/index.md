@@ -14,6 +14,7 @@ Da könnte man:
 module.exports = function subdirs(req, res, next) {
   res.locals.wikisubdirs = [];
   next();
+```
 
 Ein Wiki also, na dann schauen wir mal wie gut das Einbinden von Bildern funktioniert:
 
