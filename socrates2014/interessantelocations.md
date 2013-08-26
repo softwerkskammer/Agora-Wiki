@@ -43,6 +43,7 @@
 
 
 ### Hessen Hotelpark Hohenroda
+* [[HohenrodaAntwortAufAnfrage]]
 * Eventuell eine Nummer zu groß für uns??
 * 200 Zimmer
 * 30 Tagungsräume (max. 870 m2)
