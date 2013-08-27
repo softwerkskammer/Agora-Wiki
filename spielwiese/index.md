@@ -27,3 +27,8 @@ und was ist mit `C0DE`?
     {
         // Nothing in here
     }
+
+### Interne Links
+Auf jeder Spielwiese befindet sich auch ein ordentliches [Klettergerüst](klettergeruest). Auch eine [Wippe](./wippe) ist gern gesehen. Und ein [Sandkasten](/spielwiese/sandkasten) darf auch nicht fehlen.
+
+#### Externe Links
