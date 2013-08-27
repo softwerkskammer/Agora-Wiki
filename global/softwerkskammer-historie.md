@@ -28,5 +28,6 @@ Beim Besuch der XP-Konferenz in Wien finden erste Gespräche mit der Wiener Soft
 Der Webauftritt der Softwerkskammer ist jetzt auf den gesamten deutschsprachigen Raum ausgerichtet. Es gibt eine Linzer Regionalgruppe. Die Wiener Regionalgruppe befindet sich in Gründung.
 
 #### August 2013:
-Die dritte SoCraTes-Konferenz findet statt. Am ersten Abend wird der Groupspaces-Account der Softwerkskammer stillgelegt, Agora bildet jetzt die alleinige Webpräsenz. Kurz vor der Abschaltung sind knapp 700 Mitglieder auf der Groupspaces-Plattform registriert, davon sind bereits fast 300 Mitglieder auf Agora gewechselt. Auf der SoCraTes werden die Regionalgruppen Zürich und Bonn ins Leben gerufen, damit ist die Zahl der Regionalgruppen auf 15 gestiegen.
+Die dritte SoCraTes-Konferenz findet statt. Sie hat sich als überregionales Treffen der Softwerkskammer-Mitglieder etabliert, was man auch daran erkennen kann, dass sie nach etwa 30 Sekunden (!) ausgebucht war. 
+Am ersten Abend wird der Groupspaces-Account der Softwerkskammer stillgelegt, Agora bildet jetzt die alleinige Webpräsenz. Kurz vor der Abschaltung sind knapp 700 Mitglieder auf der Groupspaces-Plattform registriert, davon sind bereits fast 300 Mitglieder auf Agora gewechselt. Auf der SoCraTes werden die Regionalgruppen Zürich und Bonn ins Leben gerufen, damit ist die Zahl der Regionalgruppen auf 15 gestiegen.
 
