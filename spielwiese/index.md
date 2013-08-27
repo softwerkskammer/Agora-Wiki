@@ -31,4 +31,5 @@ und was ist mit `C0DE`?
 ### Interne Links
 Auf jeder Spielwiese befindet sich auch ein ordentliches [Klettergerüst](klettergeruest). Auch eine [Wippe](./wippe) ist gern gesehen. Und ein [Sandkasten](/wiki/spielwiese/sandkasten) darf auch nicht fehlen.
 
-#### Externe Links
+### Externe Links
+Man kann in ein 'anderes' [Wiki] (/hilfe) verlinken.
