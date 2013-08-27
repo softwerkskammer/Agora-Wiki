@@ -24,7 +24,7 @@ Die Teilnehmer der SoCraTes beginnen weitere Regionalgruppen zu bilden: Hamburg,
 ---
 
 ### August 2012:
-Die zweite SoCraTes-Konferenz findet statt, mit knapp 75 Teilnehmern ist sie ausgebucht. Die Softwerkskammer ist knapp ein Jahr alt und zählt ca. 400 Mitglieder.
+Die zweite SoCraTes-Konferenz findet statt, mit knapp 75 Teilnehmern ist sie ausgebucht. Die Softwerkskammer ist knapp ein Jahr alt und zählt ca. 400 Mitglieder. Auf der Konferenz wird die Nürnberger Regionalgruppe ins Leben gerufen.
 
 ### Oktober 2012:
 Die erste Bestellung von Kleidungsstücken mit Softwerkskammer-Logo wird ausgeliefert.
