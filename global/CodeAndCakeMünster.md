@@ -1,1 +1,0 @@
-[Im Wiki SoCraMOB](http://www.softwerkskammer.org/wiki/socramob/CodeAndCakeM%C3%BCnster)
