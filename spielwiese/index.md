@@ -35,6 +35,7 @@ Auf jeder Spielwiese befindet sich auch ein ordentliches [Klettergerüst](klette
 Man kann in ein anderes [Wiki](/wiki/hilfe) verlinken.
 
 Tabellen gehen auch:
+
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
