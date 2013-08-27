@@ -1,5 +1,11 @@
 ## Die Historie der Softwerkskammer
 
+#### XP-Days 2009 in Karlsruhe
+Beim Open-Space auf dem Community-Tag reift in Andreas Leidig die Idee, eine Veranstaltung für Entwickler ins Leben zu rufen, die dicht an agilen Ideen ist, ohne jedoch zu viel "tree-hugging" zu beinhalten. 
+
+#### XP-Days 2010 in Hamburg
+Wiederum auf dem Community-Tag entschliesst sich Andreas gemeinsam mit anderen, die erste SoCraTes zu organisieren. Grundgedanke: "Ohne Entwickler sicher keine Software." - Erstellung von Software muss das Entwickeln ins Zentrum stellen. Software Craftsmanship als bereits existierendes Konzept passt.
+
 #### Anfang September 2011:
 Die erste SoCraTes-Konferenz mit gut 50 Teilnehmern findet statt. Gegen Ende wünschen sich die Teilnehmer, sich auch regional und in kürzeren Abständen zu treffen. Nicole und Andreas erklären sich bereit, die nötige Infrastruktur für die Vernetzung der Regionalgruppen bereitzustellen.
 
@@ -33,4 +39,3 @@ Der Webauftritt der Softwerkskammer ist jetzt auf den gesamten deutschsprachigen
 #### August 2013:
 Die dritte SoCraTes-Konferenz findet statt. Sie hat sich als überregionales Treffen der Softwerkskammer-Mitglieder etabliert, was man auch daran erkennen kann, dass sie nach etwa 30 Sekunden (!) ausgebucht war. 
 Am ersten Abend wird der Groupspaces-Account der Softwerkskammer stillgelegt, Agora bildet jetzt die alleinige Webpräsenz. Kurz vor der Abschaltung sind knapp 700 Mitglieder auf der Groupspaces-Plattform registriert, davon sind bereits fast 300 Mitglieder auf Agora gewechselt. Auf der SoCraTes werden die Regionalgruppen Zürich und Bonn ins Leben gerufen, damit ist die Zahl der Regionalgruppen auf 15 gestiegen.
-
