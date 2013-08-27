@@ -15,6 +15,9 @@ Die Teilnehmer der SoCraTes beginnen weitere Regionalgruppen zu bilden: Hamburg,
 #### August 2012:
 Die zweite SoCraTes-Konferenz findet statt, mit knapp 75 Teilnehmern ist sie ausgebucht. Die Softwerkskammer ist knapp ein Jahr alt und zählt ca. 400 Mitglieder.
 
+#### Oktober 2012:
+Die erste Bestellung von Kleidungsstücken mit Softwerkskammer-Logo wird ausgeliefert.
+
 #### Februar 2013:
 Da Groupspaces einige Defizite aufweist und es keine nennenswerte Weiterentwicklung der Plattform gibt, beschließt Nicole, langfristig von Groupspaces wegzugehen und auf eine selbst entwickelte Webplattform für die Softwerkskammer zu wechseln. Sie bittet die Mitglieder um Unterstützung. Ca. 30 Interessierte treten der Gruppe bei, diskutieren Technologien und Vorgehensweisen. Anfang März beginnt die Entwicklung der neuen Plattform, die bald auf den (von Mariya Angelova vorgeschlagenen) Namen "Agora" hört.
 
