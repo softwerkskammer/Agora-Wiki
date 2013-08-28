@@ -27,6 +27,9 @@ Vorteile:
 - Berechnung nach Festplattenkapazität, CPU-Leistung
 - Geringerer Wartungsaufwand
 - …
+Abwägungen:
+- IaaS benötigt auch erheblichen Knowhow-Aufwand
+- …
 
 Anbieter:
 - http://www.profitbricks.com/
