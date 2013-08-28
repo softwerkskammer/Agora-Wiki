@@ -16,12 +16,12 @@ Benjamin zeigt am Beispiel eines Postgres-Servers, wie man Docker-Container eins
 IaaS or not?
 ---------------
 Was sind die Vor- und Nachteile.
- - Virtualisierung selbst zu machen ist sehr aufwändig und erfordert eigenes Know-How (Personal)
- - IaaS-Provider hosten nicht immer in Deutschland
- - Von vorne herein muss in man sich um die Automatisierung der Infrastruktur kümmern, was eigentlich ein Vorteil ist (Verteile Systeme, die robust sind).
- - Nicht immer ist eine API vorhanden
- - DevOps müssen dann auch den Betrieb auf IaaS lernen
- - Provider-Wechsel ist nicht mehr so einfach möglich, wenn Features von IaaS voll eingesetzt werden 
+- Virtualisierung selbst zu machen ist sehr aufwändig und erfordert eigenes Know-How (Personal)
+- IaaS-Provider hosten nicht immer in Deutschland
+- Von vorne herein muss in man sich um die Automatisierung der Infrastruktur kümmern, was eigentlich ein Vorteil ist (Verteile Systeme, die robust sind).
+- Nicht immer ist eine API vorhanden
+- DevOps müssen dann auch den Betrieb auf IaaS lernen
+- Provider-Wechsel ist nicht mehr so einfach möglich, wenn Features von IaaS voll eingesetzt werden 
 
 Retros für kleine Teams
 --------------------------------
