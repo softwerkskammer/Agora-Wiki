@@ -9,3 +9,4 @@ Docker
 https://www.docker.io/
 Leichtgewichtige Applikations-Container auf Linux-Basis
 Benjamin zeigt am Beispiel eines Postgres-Servers, wie man Docker-Container einsetzt.
+[Public Docker Images](https://github.com/dotcloud/docker/wiki/Public-docker-images)
