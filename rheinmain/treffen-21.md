@@ -23,6 +23,7 @@ Was sind die Vor- und Nachteile.
 - Nicht immer ist eine API vorhanden
 - DevOps müssen dann auch den Betrieb auf IaaS lernen
 - Provider-Wechsel ist nicht mehr so einfach möglich, wenn Features von IaaS voll eingesetzt werden 
+- Preiskalkulation ist schwierig
 
 Retros für kleine Teams
 --------------------------------
