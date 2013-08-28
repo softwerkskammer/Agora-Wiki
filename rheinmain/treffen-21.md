@@ -8,3 +8,4 @@ Docker
 ----------
 https://www.docker.io/
 Leichtgewichtige Applikations-Container
+Benjamin zeigt am Beispiel eines Postgres-Servers, wie man Docker-Container einsetzt.
