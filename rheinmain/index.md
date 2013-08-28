@@ -1,4 +1,9 @@
-Wiki der Rhein-Main-Gruppe
+Wiki der Softwerkskammer Rhein-Main
 =======================
+
+Wir treffen uns in der Regel alle vier Wochen an verschiedenen Locations im Rhein-Main-Gebiet.
+
+Protokolle der Treffen
+------------------------------
 
 [[Treffen #21]]
