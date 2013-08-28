@@ -24,7 +24,7 @@ Was sind die Vor- und Nachteile.
 - DevOps müssen dann auch den Betrieb auf IaaS lernen
 - Provider-Wechsel ist nicht mehr so einfach möglich, wenn Features von IaaS voll eingesetzt werden 
 - Preiskalkulation ist schwierig
-- Hat viele Zusatzleistungen, wie z.B. globale Locations, Big-Data-Services die man selbst kam aufsetzen könnte …
+- Hat viele Zusatzleistungen, wie z.B. globale Locations, Big-Data-Services die man selbst kaum aufsetzen könnte …
 
 Retros für kleine Teams
 --------------------------------
