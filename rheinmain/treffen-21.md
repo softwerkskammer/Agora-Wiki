@@ -28,10 +28,11 @@ Vorteile:
 - Geringerer Wartungsaufwand
 - …
 Abwägungen:
-- IaaS benötigt auch erheblichen Knowhow-Aufwand
+- IaaS benötigt auch erheblichen Knowhow- und Wartungs-Aufwand
 - …
 
 Anbieter:
 - http://www.profitbricks.com/
 - http://aws.amazon.com/de/
+- http://www.rackspace.com/
 - …
