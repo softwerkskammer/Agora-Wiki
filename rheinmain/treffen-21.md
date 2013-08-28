@@ -37,3 +37,4 @@ Allgemeines zu Retrospektiven:
 
 - http://www.plans-for-retrospectives.com/
 - http://finding-marbles.com/retr-o-mat/what-is-a-retrospective/
+- http://borisgloger.com/2012/09/13/moral-hat-in-der-retrospektive-nichts-verloren/
