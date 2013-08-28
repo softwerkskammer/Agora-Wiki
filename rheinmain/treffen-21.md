@@ -29,9 +29,11 @@ Was sind die Vor- und Nachteile.
 Retros für kleine Teams
 --------------------------------
 Problem: Kleines Team (3-4 Personen), Interaktion ist nicht immer eindeutig.
+
 - Idee: Retrospektiven-Fragen "an die Wand schreiben", so dass keine bestimmte Person diese Frage stellt
 - Hilfreicher Lesestoff: http://www.mccarthyshow.com/wp-content/uploads/2011/02/DieCoreProtokolleV3.pdf
 
 Allgemeines zu Retrospektiven:
+
 - http://www.plans-for-retrospectives.com/
 - http://finding-marbles.com/retr-o-mat/what-is-a-retrospective/
