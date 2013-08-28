@@ -25,7 +25,8 @@ Root-Server mit eigener Virtualisierung
 
 Vorteile:
 - Berechnung nach Festplattenkapazität, CPU-Leistung
-- Bequemlichkeit
+- Geringerer Wartungsaufwand
+- …
 
 Anbieter:
 - http://www.profitbricks.com/
