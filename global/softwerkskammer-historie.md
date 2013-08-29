@@ -5,7 +5,7 @@
 Beim Open-Space auf dem Community-Tag reift in Andreas Leidig die Idee, eine Veranstaltung für Entwickler ins Leben zu rufen, die dicht an agilen Ideen ist, ohne jedoch zu viel "tree-hugging" zu beinhalten. 
 
 #### XP-Days 2010 in Hamburg
-Wiederum auf dem Community-Tag entschliesst sich Andreas gemeinsam mit anderen, die erste SoCraTes zu organisieren. Grundgedanke: "Ohne Entwickler sicher keine Software." - Erstellung von Software muss das Entwickeln ins Zentrum stellen. Software Craftsmanship als bereits existierendes Konzept passt.
+Wiederum auf dem Community-Tag entschliesst sich Andreas gemeinsam mit anderen, die erste [SoCraTes](socrates) (Software Craftsmanship and Testing Conference) zu organisieren. Grundgedanke: "Ohne Entwickler sicher keine Software." - Erstellung von Software muss das Entwickeln ins Zentrum stellen. Software Craftsmanship als bereits existierendes Konzept passt.
 
 #### Anfang September 2011:
 Die erste SoCraTes-Konferenz mit gut 50 Teilnehmern findet statt. Gegen Ende wünschen sich die Teilnehmer, sich auch regional und in kürzeren Abständen zu treffen. Nicole und Andreas erklären sich bereit, die nötige Infrastruktur für die Vernetzung der Regionalgruppen bereitzustellen.
