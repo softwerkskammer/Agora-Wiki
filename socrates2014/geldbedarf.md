@@ -40,6 +40,8 @@ Kosten für die SoCraTes: (Do. abend bis Sa. abend)
 * Junior-DZ Einzelbelegung: 211,-
 * Junior-DZ Doppelbelegung: 118,-
 
+also **maximal 313,-**
+
 Zimmerauslastung: 
 
 Vorhandene Zimmer: 117 Einzelzimmer, 12 Doppelzimmer, 56 Juniordoppelzimmer, 2 Suiten
@@ -58,6 +60,8 @@ Kosten für die SoCraTes: (Do. abend bis Sa. abend)
 * EZ: 209,-
 * DZ Einzelbelegung: 239,-
 * DZ Doppelbelegung: 139,-
+
+also **maximal 368,-**
 
 Zimmerauslastung: 
 
