@@ -11,19 +11,8 @@
 * http://www.hotel-mueggelsee-berlin.de
 * https://maps.google.com/maps?q=52.426040,+13.641543+%4052.42604,13.641543
 
-
-### Hotel Stromberg
-* [[StrombergAntwortAufAnfrage]]
-* Benjamin war schonmal da und hat es unabhängig davon stark empfohlen bekommen (besonders was die Kompetenz und Freundlichkeit des Personals anging)
-* 164 Zimmer, 17 Suiten
-* 15 Tagungsräume plus 500qm "Forum" das eigentlich 6 weitere Räume sind (flexible Wände etc)
-* Gegend vergleichbar schön und ruhig mit Rückersbach
-* 75km FRA Airport, 45km Frankfurt Hahn Airport, MZ Hbf 42km, Bingen Bf 15km
-* http://www.tagungshotel-golfhotel-stromberg.de/tagungen/tagungsraeume.html
-* http://www.top250tagungshotels.de/index.php/hotel/Land+&+Golf+Hotel+Stromberg/Stromberg/214/index
-
-
 ### Hotel Park Soltau
+* Zimmersituation problematisch
 * [[SoltauAntwortAufAnfrage]]
 * Sehr interessant - aber fast schon etwas klein?!
 * 118 EZ, 72 DZ, 2 Suiten (= 266 Personen)
@@ -42,8 +31,21 @@
 * http://www.tagungshotels-online.de/tagungshotel-bad-aibling/hotel-st-georg-bad-aibling/2923
 * http://www.sanktgeorg.com/de/
 
+## Ausgeschieden
+
+### Hotel Stromberg
+* keine Termine mehr frei
+* [[StrombergAntwortAufAnfrage]]
+* Benjamin war schonmal da und hat es unabhängig davon stark empfohlen bekommen (besonders was die Kompetenz und Freundlichkeit des Personals anging)
+* 164 Zimmer, 17 Suiten
+* 15 Tagungsräume plus 500qm "Forum" das eigentlich 6 weitere Räume sind (flexible Wände etc)
+* Gegend vergleichbar schön und ruhig mit Rückersbach
+* 75km FRA Airport, 45km Frankfurt Hahn Airport, MZ Hbf 42km, Bingen Bf 15km
+* http://www.tagungshotel-golfhotel-stromberg.de/tagungen/tagungsraeume.html
+* http://www.top250tagungshotels.de/index.php/hotel/Land+&+Golf+Hotel+Stromberg/Stromberg/214/index
 
 ### Hessen Hotelpark Hohenroda
+* keine Termine mehr frei
 * [[HohenrodaAntwortAufAnfrage]]
 * Eventuell eine Nummer zu groß für uns??
 * 200 Zimmer
