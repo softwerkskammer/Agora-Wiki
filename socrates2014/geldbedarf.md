@@ -24,7 +24,7 @@ Mal angenommen, wir hätten 250 Teilnehmer sowie 100 Teilnehmer für den Coderet
 
 **Soltau:** Pinnwände, Moderatorenkoffer
 
-**Müggelsee:** anscheinend nix
+**Müggelsee:** Beamer (außer wir nehmen die teurere Tagungspauschale, Mehrpreis 4000 Euro -> dafür können wir einige Beamer kaufen)
 
 
 #### Was kostet es für die Teilnehmer:
