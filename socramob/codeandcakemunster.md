@@ -34,3 +34,5 @@ Bisherige Themen
  * 2013-07-05 -
  * 2013-07-19 [Lean Coffee](http://leancoffee.org/)
  * 2013-08-02 ???
+ * 2013-08-30 FizzBuzz Kata in C#, Delphi und Ruby
+ * 2013-09-13 Legacy Code Kata
