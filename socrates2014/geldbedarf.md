@@ -33,6 +33,7 @@ Mal angenommen, wir hätten 250 Teilnehmer sowie 100 Teilnehmer für den Coderet
 Abendessen Do / Fr je 12,50 €
 
 Kosten für die SoCraTes: (Do. abend bis Sa. abend)
+
 * EZ: 165,-
 * DZ Doppelbelegung: 125,-
 * Suite Einzelbelegung: 201,-
@@ -53,6 +54,7 @@ Mehrkapazität bei mehr Interesse: 7 Personen
 Abendessen Do / Fr je 19,50 €
 
 Kosten für die SoCraTes: (Do. abend bis Sa. abend)
+
 * EZ: 209,-
 * DZ Einzelbelegung: 239,-
 * DZ Doppelbelegung: 139,-
