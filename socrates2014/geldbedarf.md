@@ -4,7 +4,7 @@ Mal angenommen, wir hätten 250 Teilnehmer sowie 100 Teilnehmer für den Coderet
 
 |**SoCraTes**                                                 | Soltau            | Müggelsee |
 |---|---|---|
-|10/15 Räume Fr.+Sa.                        | 0,-                 | 3500,- / 5250,-|
+|15 Räume Fr.+Sa.                        | 0,-                 | 5250,-|
 |Tagungspauschale Fr.+Sa. (250 P.)   | 2 x 250 x 43,- = 21.500,- | 2 x 250 x 46,- = 23.000,-|
 |Kosten für Exklusivbelegung Fr.+Sa. | 0,- | 0,- |
 |T-Shirts (250 St.)                                | 4000,-           | 4000,-|
