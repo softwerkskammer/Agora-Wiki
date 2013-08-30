@@ -11,9 +11,9 @@ Mal angenommen, wir hätten 250 Teilnehmer sowie 100 Teilnehmer für den Coderet
 |WLan                                                 | 0,- | ??? |
 |**Summe** | 25.500,- (102,- p.P.) | 32.250,- (129,- p.P.) |
 
--
 
-|**Code Retreat**                                                 | Soltau            | Müggelsee|
+
+|Code Retreat                                                | Soltau            | Müggelsee|
 |---|---|---|
 |3 Räume So.                                     |0,-                   | 525,-|
 |Tagungspauschale So. (100 P.)        | 100 x 43,- = 4300,- | 100 x 46,- = 4600,-|
