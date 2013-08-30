@@ -3,6 +3,7 @@
 **Hinweis:** Bei der Gesamtpersonenzahl bin ich davon ausgegangen, dass wir alle Zimmer belegt bekommen, auch (teurere) Suiten, und dass jedes Zimmer (außer EZ) mit 2 Personen belegt wird.
 
 ### Hotel Müggelsee Berlin
+* [[MueggelseeAntwortAufAnfrage]]
 * Liegt in Berlin-Köpenick (evtl. zu stadtnah?)
 * 24 EZ, 148 DZ, 4 Suiten (= 328 Personen)
 * 26 Tagungsräume (max. 510 m2)
