@@ -50,7 +50,7 @@ Belegung: 117 EZ, 12 DZ mit Doppelbelegung, 2 Suiten mit Einzelbelegung, 1 Junio
 
 Minimalkapazität für Exklusivbelegung: 210 Personen
 
-Mehrkapazität bei mehr Interesse: 7 Personen
+Maximalkapazität: 257 Personen
 
 **Müggelsee:** Übernachtung/Frühstücksbuffet EZ 85,-, DZ 100,-
 Abendessen Do / Fr je 19,50 €
@@ -72,4 +72,4 @@ Belegung: 24 EZ, 78 DZ mit Einzelbelegung, 74 DZ mit Doppelbelegung
 
 Minimalkapazität für Exklusivbelegung: 176 Personen (jedes Zimmer in Einzelbelegung)
 
-Mehrkapazität bei mehr Interesse: 78 Personen
+Maximalkapazität: 328 Personen
