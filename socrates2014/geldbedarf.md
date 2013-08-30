@@ -11,6 +11,7 @@ Mal angenommen, wir hätten 250 Teilnehmer sowie 100 Teilnehmer für den Coderet
 |WLan                                                 | 0,- | ??? |
 |**Summe** | 25.500,- (102,- p.P.) | 32.250,- (129,- p.P.) |
 
+-
 
 |**Code Retreat**                                                 | Soltau            | Müggelsee|
 |---|---|---|
@@ -31,7 +32,7 @@ Mal angenommen, wir hätten 250 Teilnehmer sowie 100 Teilnehmer für den Coderet
 **Soltau:** Übernachtung/Frühstücksbuffet im EZ € 69,90, im DZ € 99,90, im Juniordoppel (1,60m breite Betten) € 92,90., Suite (Einzelbel.) € 88,00
 Abendessen Do / Fr je 12,50 €
 
-Kosten für die gesamte Konferenz: (Do. abend bis Sa. abend)
+Kosten für die SoCraTes: (Do. abend bis Sa. abend)
 * EZ: 165,-
 * DZ Doppelbelegung: 125,-
 * Suite Einzelbelegung: 201,-
@@ -51,7 +52,7 @@ Mehrkapazität bei mehr Interesse: 7 Personen
 **Müggelsee:** Übernachtung/Frühstücksbuffet EZ 85,-, DZ 100,-
 Abendessen Do / Fr je 19,50 €
 
-Kosten für die gesamte Konferenz: (Do. abend bis Sa. abend)
+Kosten für die SoCraTes: (Do. abend bis Sa. abend)
 * EZ: 209,-
 * DZ Einzelbelegung: 239,-
 * DZ Doppelbelegung: 139,-
