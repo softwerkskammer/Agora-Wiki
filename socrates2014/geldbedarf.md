@@ -2,15 +2,17 @@
 
 Mal angenommen, wir hätten 250 Teilnehmer sowie 100 Teilnehmer für den Coderetreat am So. Was würde uns das kosten?
 
-Was?                                                 | Soltau            | Müggelsee
-10/15 Räume Fr.+Sa.                        | 0,-                 | 3500,- / 5250,-
-Tagungspauschale Fr.+Sa. (250 P.)   | 2 x 250 x 43,- = 21.500,- | 2 x 250 x 46,- = 23.000,-
-Kosten für Exklusivbelegung Fr.+Sa. | 0,- | 
-T-Shirts (250 St.)                                | 4000,-           | 4000,-
-WLan                                                 | 0,- |
-3 Räume So.                                     |0,-                   | 525,-
-Tagungspauschale So. (100 P.)        | 100 x 43,- = 4300,- | 100 x 46,- = 4600,-
-Summe | 29.800,- (102,- K, 43,- CR) | 
+|**Was?**                                                 | Soltau            | Müggelsee|
+|---|---|---|
+|10/15 Räume Fr.+Sa.                        | 0,-                 | 3500,- / 5250,-|
+|Tagungspauschale Fr.+Sa. (250 P.)   | 2 x 250 x 43,- = 21.500,- | 2 x 250 x 46,- = 23.000,-|
+|Kosten für Exklusivbelegung Fr.+Sa. | 0,- |  |
+|T-Shirts (250 St.)                                | 4000,-           | 4000,-|
+|WLan                                                 | 0,- | |
+|3 Räume So.                                     |0,-                   | 525,-|
+|Tagungspauschale So. (100 P.)        | 100 x 43,- = 4300,- | 100 x 46,- = 4600,-|
+|---|---|---|
+|**Summe** | 29.800,- (102,- K, 43,- CR) | |
 
 Summe: K = pro Konferenzteilnehmer, CR = pro CodeRetreat-Teilnehmer
 
