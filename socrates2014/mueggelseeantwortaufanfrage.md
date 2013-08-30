@@ -10,6 +10,7 @@ Müggelsee hat gleich mit [einem Angebot](https://www.dropbox.com/s/iar3x5e9vgn0
 
 #### Offene Fragen:
 
+ - Wie sieht es aus mit der Exklusivbuchung? Bezieht sich das auf die "nicht verkauften Zimmer" - d. h. wenn wir alle Zimmer vollbekommen, dann haben wir das Ding exklusiv? Auch wenn die Doppelzimmer einzeln belegt sind? D. h. ab 176 Personen können wir die Location exklusiv belegen?
 - Was kostet ein DZ mit Einzelbelegung?                        
 - Sind die DZ mit echtem Doppelbett oder lassen die sich in Twin Rooms (mit getrennten Betten) umwandeln?                        
 - Im Angebot steht: "Das  oben  genannte  Zimmerkontingent  ist  ein  Festkontingent,  durch  Namensliste  über  den Veranstalter. Alternativ können wir die Zimmer als Abrufkontingent zur Verfügung stellen." ... Was ist hier genau gemeint mit Festkontingent bzw. Abrufkontingent?                                                                                            
