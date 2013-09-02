@@ -1,3 +1,9 @@
+### Formales Angebot
+
+* [Angebot](﻿https://www.dropbox.com/s/oev76y2o02tejw5/Soltau_Reitzammer%20Angeb.%2007.08.%20bis%2009.08.14.doc)
+* [Formular Raumausstattung](https://www.dropbox.com/s/6p94n321jx9fmdb/Formular%20Raumausstattung%20HOTEL%20PARK%20SOLTAU.doc)
+
+### Initiale Antwort per Mail
 [snip]
 vielen Dank für Ihre Mail und das Interesse an unserem Haus.
 
