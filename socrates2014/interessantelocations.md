@@ -15,7 +15,9 @@
 * Zimmersituation problematisch
 * [[SoltauAntwortAufAnfrage]]
 * Sehr interessant - aber fast schon etwas klein?!
-* 118 EZ, 72 DZ, 2 Suiten (= 266 Personen)
+* 117 EZ, 12 DZ, 56 Junior-DZ, 2 Suiten
+ * Bei Einzelbelegung der Junior-DZ und Einzelbelegung der Suiten: 199 Personen
+ * Maximal mögliche Belegung: 255 Personen
 * 25 Tagungsräume
 * Entfernung Bhf. 6 km, Flughafen 70 - 80 km
 * [top250tagungshotels](http://www.top250tagungshotels.de/hotel/Hotel+Park+Soltau/Soltau/418/index)
