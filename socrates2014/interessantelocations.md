@@ -23,6 +23,7 @@
 
 
 ### Hotel St. Georg Bad Aibling
+* [[BadAiblingAntwortAufAnfrage]]
 * 44 EZ, 153 DZ, 24 Appartements (= 398 Personen)
 * 12 Tagungsräume (max. 400 m2)
 * Entfernung Bhf. 0,8 km, Flughafen 70 km
