@@ -15,8 +15,8 @@
 * Zimmersituation problematisch
 * [[SoltauAntwortAufAnfrage]]
 * Sehr interessant - aber fast schon etwas klein?!
-* 117 EZ, 12 DZ, 56 Junior-DZ, 2 Suiten
- * Bei Einzelbelegung der Junior-DZ und Einzelbelegung der Suiten: 199 Personen
+* 117 EZ, 12 DZ, 56 Junior-DZ, 2 Suiten (EZ)
+ * Bei Einzelbelegung der Junior-DZ: 199 Personen
  * Maximal mögliche Belegung: 255 Personen
 * 25 Tagungsräume
 * Entfernung Bhf. 6 km, Flughafen 70 - 80 km
