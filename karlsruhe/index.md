@@ -1,6 +1,6 @@
 # Karlsruhe
 
-Jetzt gibt es also doch ein WIki.
+Jetzt gibt es also doch ein Wiki.
 
 ### Themensammlung
 
