@@ -2,17 +2,7 @@
 
 **Hinweis:** Bei der Gesamtpersonenzahl bin ich davon ausgegangen, dass wir alle Zimmer belegt bekommen, auch (teurere) Suiten, und dass jedes Zimmer (außer EZ) mit 2 Personen belegt wird.
 
-### Hotel Müggelsee Berlin
-* [[MueggelseeAntwortAufAnfrage]]
-* Liegt in Berlin-Köpenick (evtl. zu stadtnah?)
-* 24 EZ, 148 DZ, 4 Suiten (= 328 Personen)
-* 26 Tagungsräume (max. 510 m2)
-* ziemlich nah am Flughafen (Lärm?)
-* http://www.hotel-mueggelsee-berlin.de
-* https://maps.google.com/maps?q=52.426040,+13.641543+%4052.42604,13.641543
-
 ### Hotel Park Soltau
-* Zimmersituation problematisch
 * [[SoltauAntwortAufAnfrage]]
 * Sehr interessant - aber fast schon etwas klein?!
 * 117 EZ, 12 DZ, 56 Junior-DZ, 2 Suiten (EZ)
@@ -24,6 +14,7 @@
 * [top250tagungshotels](http://www.top250tagungshotels.de/hotel/Hotel+Park+Soltau/Soltau/418/index)
 * [Maps](https://maps.google.com/maps?q=Winsener+Str.+111,+29614+Soltau&ie=UTF8&ll=53.001233,9.860015&spn=0.002631,0.006453&oe=utf-8&client=firefox-a&hnear=Winsener+Stra%C3%9Fe+111,+29614+Soltau,+Deutschland&t=h&z=18)
 
+## Ausgeschieden
 
 ### Hotel St. Georg Bad Aibling
 * [[BadAiblingAntwortAufAnfrage]]
@@ -35,7 +26,14 @@
 * http://www.tagungshotels-online.de/tagungshotel-bad-aibling/hotel-st-georg-bad-aibling/2923
 * http://www.sanktgeorg.com/de/
 
-## Ausgeschieden
+### Hotel Müggelsee Berlin
+* [[MueggelseeAntwortAufAnfrage]]
+* Liegt in Berlin-Köpenick (evtl. zu stadtnah?)
+* 24 EZ, 148 DZ, 4 Suiten (= 328 Personen)
+* 26 Tagungsräume (max. 510 m2)
+* ziemlich nah am Flughafen (Lärm?)
+* http://www.hotel-mueggelsee-berlin.de
+* https://maps.google.com/maps?q=52.426040,+13.641543+%4052.42604,13.641543
 
 ### Hotel Stromberg
 * keine Termine mehr frei
