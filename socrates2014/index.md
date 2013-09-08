@@ -6,3 +6,4 @@ Hier finden sich alle Informationen rund um die Organisation der [SoCraTes](/wik
 * [[InteressanteLocations]]
 * [[UngeeigneteLocations]]
 * [[Geldbedarf]]
+* [[TelkoProtokolle]]
