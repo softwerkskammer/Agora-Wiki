@@ -27,6 +27,7 @@
 * http://www.sanktgeorg.com/de/
 
 ### Hotel Müggelsee Berlin
+* [Kommt nicht mehr in Frage](http://www.softwerkskammer.org/mailarchive/message?id=BB8F974C-C647-4FB8-A574-45266DCCF34E%40ambestengestern.de)
 * [[MueggelseeAntwortAufAnfrage]]
 * Liegt in Berlin-Köpenick (evtl. zu stadtnah?)
 * 24 EZ, 148 DZ, 4 Suiten (= 328 Personen)
