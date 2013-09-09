@@ -1,7 +1,7 @@
 ### Location
 
 
-* [Soltau](http://hotel-park-soltau.de) ist reserviert für den 17.07. bis 20.07.14
+* [Soltau](http://hotel-park-soltau.de) ist reserviert für den 07.08. bis 10.08.14
 * Es werden für die Nacht von Samstag auf Sonntag alle Zimmer reserviert und evtl. ca 3 Monate vorher konkretisiert. 
 * In nächster Zeit nochmal mit Soltau klären:
     * Rechnungsstellung? So wie in Rückersbach oder als Gesamtrechnung?
