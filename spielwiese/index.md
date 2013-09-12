@@ -17,6 +17,19 @@ module.exports = function subdirs(req, res, next) {
 }
 ```
 
+```java
+	private List<String> alleGattungsWerteFuerSpalte(String memberName)
+	{
+		Criteria cr = getSession()
+				.createCriteria(Gattung.class)
+				.add(Restrictions.isNotNull(memberName))
+				.setProjection(
+						Projections.projectionList().add(Projections.distinct(Projections.property(memberName)), memberName))
+				.addOrder(Order.asc(memberName));
+
+		return cr.list();
+	}
+```
 Ein Wiki also, na dann schauen wir mal wie gut das Einbinden von Bildern funktioniert:
 
 ![Alt text](http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wikipedia-logo-v2-de.svg/200px-Wikipedia-logo-v2-de.svg.png)
