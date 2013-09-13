@@ -1,5 +1,7 @@
 # Karlsruhe
 
+Hier sammeln wir alles, was lokal interessiert.
+
 ## Materialien zu den Treffen
 * September 2013: From Push to Pull gibt es im [globalen Wiki](../global/links-und-literatur)
 
