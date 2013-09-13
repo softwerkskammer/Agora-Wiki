@@ -12,6 +12,7 @@ https://www.docker.io/
 Leichtgewichtige Applikations-Container auf Linux-Basis
 Benjamin zeigt am Beispiel eines Postgres-Servers, wie man Docker-Container einsetzt.
 [Public Docker Images](https://github.com/dotcloud/docker/wiki/Public-docker-images)
+[How is Docker.io different from a normal Virtual Machine?](http://stackoverflow.com/questions/16047306/how-is-docker-io-different-from-a-normal-virtual-machine)
 
 IaaS or not?
 ---------------
