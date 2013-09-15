@@ -10,6 +10,7 @@
  * Maximal mögliche Belegung: 255 Personen
 * 25 Tagungsräume
 * Entfernung Bhf. 6 km, Flughafen 70 - 80 km
+* [Website](http://www.hotel-park-soltau.de)
 * [Qype](http://www.qype.com/place/818548-Hotel-Park-Soltau-GmbH-Soltau)
 * [top250tagungshotels](http://www.top250tagungshotels.de/hotel/Hotel+Park+Soltau/Soltau/418/index)
 * [Maps](https://maps.google.com/maps?q=Winsener+Str.+111,+29614+Soltau&ie=UTF8&ll=53.001233,9.860015&spn=0.002631,0.006453&oe=utf-8&client=firefox-a&hnear=Winsener+Stra%C3%9Fe+111,+29614+Soltau,+Deutschland&t=h&z=18)
