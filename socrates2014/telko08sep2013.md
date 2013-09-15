@@ -25,6 +25,7 @@
 * Wie kann SoCraTes attraktiver werden (auch um ausgebucht zu werden)?
     * Nicole & Andreas schlagen vor Keynotes zu haben.
     * Erklärung der Kosten auf der Website
+       * [N:] Wie ist das gemeint? Andreas und Nicole haben eher über Vereinheitlichung der Preise mit Mischkalkulation nachgedacht. Wenn wir sowieso gegenüber der Location selbst Rechnungen stellen müssen für die Teilnehmerumlagen, können wir vielleicht auch gegenüber den Teilnehmern selbst Rechnungen stellen?!
 
 ### Next Action
 * Regelmäßige Telko alle drei Wochen, nächste dann am 29.9., [Activity ist angelegt](http://www.softwerkskammer.org/activities/socrates-orga-telko-2) inkl. des Links zum Hangout
