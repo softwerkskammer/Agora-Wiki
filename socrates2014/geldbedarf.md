@@ -1,31 +1,28 @@
 ## Wie viel Geld brauchen wir?
 
-Mal angenommen, wir hätten 250 Teilnehmer sowie 100 Teilnehmer für den Coderetreat am So. Was würde uns das kosten?
+Mal angenommen, wir hätten 200 Teilnehmer sowie 100 Teilnehmer für den Coderetreat am So. Was würde uns das kosten?
 
-|**SoCraTes**                                                 | Soltau            | Müggelsee |
+|**SoCraTes**                                                 | Soltau            |
 |---|---|---|
-|15 Räume Fr.+Sa.                        | 0,-                 | 2 x 15 x 175,- = 5250,-|
-|Tagungspauschale Fr.+Sa. (250 P.)   | 2 x 250 x 43,- = 21.500,- | 2 x 250 x 46,- = 23.000,-|
-|Kosten für Exklusivbelegung Fr.+Sa. | 0,- | 0,- |
-|T-Shirts (250 St.)                                | 4000,-           | 4000,-|
-|WLan                                                 | 0,- | ??? |
-|**Summe** | 25.500,- (102,- p.P.) | 32.250,- (129,- p.P.) |
+|15 Räume Fr.+Sa.                        | 0,-                 | 
+|Tagungspauschale Fr.+Sa. (250 P.)   | 2 x 200 x 43,- = 17.200,- | 
+|Kosten für Exklusivbelegung Fr.+Sa. | 0,- |
+|T-Shirts (200 St.)                                | 3200,-           |
+|WLan                                                 | 0,- |
+|**Summe** | 20.400,- (102,- p.P.) |
 
 
 
-|Code Retreat                                                | Soltau            | Müggelsee |
+|Code Retreat                                                | Soltau            | 
 |---|---|---|
-|3 Räume So.                                     |0,-                   | 525,-|
-|Tagungspauschale So. (100 P.)        | 100 x 43,- = 4300,- | 100 x 46,- = 4600,-|
-|**Summe** | 4300,- (43,- p.P.) | 5.125,- (52,- p.P.) |
+|3 Räume So.                                     |0,-                   |
+|Tagungspauschale So. (100 P.)        | 100 x 43,- = 4300,- |
+|**Summe** | 4300,- (43,- p.P.) |
 
 
 #### Was müssen wir noch zusätzlich organisieren:
 
-**Soltau:** Pinnwände, Moderatorenkoffer
-
-**Müggelsee:** Beamer (außer wir nehmen die teurere Tagungspauschale, Mehrpreis 4000 Euro -> dafür können wir einige Beamer kaufen)
-
+**Soltau:** Pinnwände? (was bedeutet "Leinwand"?), Moderatorenkoffer
 
 #### Was kostet es für die Teilnehmer:
 
@@ -44,32 +41,8 @@ also **maximal 313,-** (komplett ohne Sponsoring)
 
 Zimmerauslastung: 
 
-Vorhandene Zimmer: 117 Einzelzimmer, 12 Doppelzimmer, 56 Juniordoppelzimmer, 2 Suiten
+Vorhandene Zimmer: 117 Einzelzimmer, 12 Doppelzimmer, 56 Juniordoppelzimmer (eher nur mit Einzelbelegung), 2 Suiten (mit Einzelbelegung)
 
-Belegung: 117 EZ, 12 DZ mit Doppelbelegung, 2 Suiten mit Einzelbelegung, 1 Junior-DZ mit Einzelbelegung, 53 Junior-DZ mit Doppelbelegung (!!!)
+Minimalkapazität für Exklusivbelegung: 210 Personen (DZ mit Einzelbelegung zählt hier doppelt!)
 
-Minimalkapazität für Exklusivbelegung: 210 Personen
-
-Maximalkapazität: 257 Personen
-
-**Müggelsee:** Übernachtung/Frühstücksbuffet EZ 85,-, DZ 100,-
-Abendessen Do / Fr je 19,50 €
-
-Kosten für die SoCraTes: (Do. abend bis Sa. abend)
-
-* EZ: 209,-
-* DZ Einzelbelegung: 239,-
-* DZ Doppelbelegung: 139,-
-
-also **maximal 368,-** (komplett ohne Sponsoring)
-
-Zimmerauslastung: 
-
-Vorhandene Zimmer: 152 DZ, 24 EZ
-
-Belegung: 24 EZ, 78 DZ mit Einzelbelegung, 74 DZ mit Doppelbelegung
-(dadurch entstehen keine Kosten durch nicht belegte Zimmer)
-
-Minimalkapazität für Exklusivbelegung: 176 Personen (jedes Zimmer in Einzelbelegung)
-
-Maximalkapazität: 328 Personen
+Maximalkapazität: 255 Personen
