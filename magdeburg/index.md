@@ -31,3 +31,8 @@ Das nächste Treffen findet am 14.10 um 19:00 statt. Die Örtlichkeit steht noch
 * Hardware
     * Lego Mindstorm
     * Raspberry Pi
+
+
+### Protokolle
+
+* [[Treffen #1]]
