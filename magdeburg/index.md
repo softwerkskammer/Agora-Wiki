@@ -8,21 +8,16 @@ Das nächste Treffen findet am 14.10 um 19:00 statt. Die Örtlichkeit steht noch
 ### Themen
 
 * Technologien
-    * ALM & Continuous Integration
-        * TFS
-        * Jenkins
-        * FinalBuilder
+    * ALM & Continuous Integration mit TFS / Jenkins / FinalBuilder
     * Git / GitHub / BitBucket
     * Cloud Computing
     * NoSQL / BigData
 
 
 * Softwareentwicklung
-    * iOS
-    * Android
-    * Windows (Phone) 8
-    * Go
-    * Testgetrieben
+    * Entwickeln für iOS / Android / Windows (Phone) 8
+    * Entwickeln mit Go
+    * Testgetrieben entwickeln
     * Softwaredesign
     * Softwarearchitektur
     * Patterns
