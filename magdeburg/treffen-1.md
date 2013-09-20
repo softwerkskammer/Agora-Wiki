@@ -4,6 +4,6 @@
 
 ## Agenda
 * Vorstellungsrunde
-* Was ist Software Crafstmanship
+* Was ist Software Craftsmanship
 * Was ist die Softwerkskammer
 * Diskussionsrunde
