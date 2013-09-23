@@ -27,6 +27,8 @@ Was sind die Vor- und Nachteile.
 - Preiskalkulation ist schwierig
 - Hat viele Zusatzleistungen, wie z.B. globale Locations, Big-Data-Services die man selbst kaum aufsetzen könnte …
 
+http://blippex.github.io/updates/2013/09/23/why-we-moved-away-from-aws.html
+
 Retros für kleine Teams
 --------------------------------
 Problem: Kleines Team (3-4 Personen), Interaktion ist nicht immer eindeutig.
