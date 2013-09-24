@@ -4,7 +4,7 @@ Craftsman Swaps sind der zeitlich begrenzte Austausch von Mitarbeitern zwischen 
 
 Das Konzept der Handwerksgesellen die auf die [*Walz*](http://de.wikipedia.org/wiki/Wanderjahre) gehen um Erfahrungen zu sammeln ist altbekannt, und kann hier auf die Software Craftsmanship übertragen werden.
 
-Laut [Wikipedia](http://en.wikipedia.org/wiki/Software_craftsmanship) haben die Unternehmen *8th Light* und *Obtivia* 2008 mit Crasftsman Swaps experimentiert, und [die Chicago Tribune hat 2009 darüber berichtet](http://www.vcstar.com/news/2009/Jul/13/employee-swap-gives-two-firms-new-perspectives/).
+Laut [Wikipedia](http://en.wikipedia.org/wiki/Software_craftsmanship) haben die Unternehmen *8th Light* und *Obtivia* 2008 mit Craftsman Swaps experimentiert, und [die Chicago Tribune hat 2009 darüber berichtet](http://www.vcstar.com/news/2009/Jul/13/employee-swap-gives-two-firms-new-perspectives/).
 
 ### Artikel und Blog Posts
 
