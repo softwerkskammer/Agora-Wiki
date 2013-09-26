@@ -8,6 +8,8 @@ Da könnte man:
 - Unsinn hinschreiben.
 - `inline Code quoten`
 
+**FRICKEL**
+
 ```javascript
 "use strict";
 
