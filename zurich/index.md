@@ -1,5 +1,7 @@
 Hiya!
 
+[[Anforderungen]]
+
 We like to code. And we prefer craftsman-style. And that's what we like to practice.
 
 Our website is [zurich.codersonly.org](http://zurich.codersonly.org) which is where you should begin your explorations.
