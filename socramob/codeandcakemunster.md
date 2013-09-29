@@ -35,4 +35,7 @@ Bisherige Themen
  * 2013-07-19 [Lean Coffee](http://leancoffee.org/)
  * 2013-08-02 ???
  * 2013-08-30 FizzBuzz Kata in C#, Delphi und Ruby
- * 2013-09-13 Legacy Code Kata
+ * 2013-09-27 Legacy Code Kata
+    * [Tag auf GitHub](https://github.com/socramob/GildedRose/tree/code-and-cake-2013-09-27)
+    * [Whole Values](http://c2.com/ppr/checks.html#1): Über die Modellierung von Werten in Software-Systemen
+ * 2013-10-11 Fortsetzung der Legacy Code Kata
