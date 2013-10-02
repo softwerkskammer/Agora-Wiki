@@ -1,4 +1,4 @@
-## Round Table Planner
+#### Round Table Planner
 
 * RSVP needed
 * regular, monthly events, 2-3 hours in total
