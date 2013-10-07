@@ -9,11 +9,11 @@
 
 #### Locations
 
-* Collab (Geza) - nothing yet
-* Albis (Raphael) - nothing yet
-* Google (who was that?) - nothing yet
+* Collab (Geza) - nothing yet...
+* Albis (Raphael) - nothing yet...
+* Google (who was that?) - nothing yet...
+* AXA-Marketing (Bartosz) - about to be contacted
 * Namics (Geza) - prefer to reserve them for code retreats
-
 * we should get three or four locations and do round robin
 * negotiate for at least a year's worth of events to begin
 
