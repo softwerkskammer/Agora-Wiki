@@ -9,9 +9,10 @@
 
 #### Locations
 
+* Inventage AG, Technopark (Oliver) - waiting for definite answer
 * Collab (Geza) - nothing yet...
 * Albis (Raphael) - nothing yet...
-* Google (who was that?) - nothing yet...
+* Google (Oliver) - contact left Zurich, what now?
 * AXA-Marketing (Bartosz) - about to be contacted
 * Namics (Geza) - prefer to reserve them for code retreats
 * we should get three or four locations and do round robin
