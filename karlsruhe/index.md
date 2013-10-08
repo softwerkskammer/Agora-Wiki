@@ -11,3 +11,4 @@ Hier sammeln wir alles, was lokal interessiert.
 * Der Weg in die Selbständigkeit (Freelancer). Was ist zu beachten?
 * Value Objects / Domain Driven Design, oder wie wende ich funktionale Denkweise auf OO an. (Nicole/Andreas)
 * Debugging Tipps & Tricks mit Eclipse (Andreas)
+* Specification by Example: die Unterschiede zwischen Fitnesse und JBehave und deren Auswirkung auf das Test- und Programmdesign, oder "is 'when' evil and prevents pull oriented designs?'. (Nicole und Steffen)
