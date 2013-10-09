@@ -1,1 +1,0 @@
-[SessionIncubator](http://www.softwerkskammer.org/wiki/edit/SoCraMOB/OpenSpace/SessionIncubator)
