@@ -12,7 +12,7 @@
 * Inventage AG, Technopark (Oliver) - waiting for definite answer
 * Collab (Geza) - nothing yet...
 * Google (Oliver) - contact left Zurich, what now?
-* AXA-Marketing (Bartosz) - about to be contacted
+* AXA-Marketing (Bartosz) - has no money, but roomm would be sufficient
 * Namics (Geza) - prefer to reserve them for code retreats
 * we should get three or four locations and do round robin
 * negotiate for at least a year's worth of events to begin
