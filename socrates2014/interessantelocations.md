@@ -3,7 +3,6 @@
 **Hinweis:** Bei der Gesamtpersonenzahl bin ich davon ausgegangen, dass wir alle Zimmer belegt bekommen, auch (teurere) Suiten, und dass jedes Zimmer (außer EZ) mit 2 Personen belegt wird.
 
 ### Hotel Park Soltau
-* [[SoltauAntwortAufAnfrage]]
 * [[Planungs Details]]
 * Sehr interessant - aber fast schon etwas klein?!
 * 117 EZ, 12 DZ, 56 Junior-DZ, 2 Suiten (EZ)
@@ -15,7 +14,6 @@
 * [Qype](http://www.qype.com/place/818548-Hotel-Park-Soltau-GmbH-Soltau)
 * [top250tagungshotels](http://www.top250tagungshotels.de/hotel/Hotel+Park+Soltau/Soltau/418/index)
 * [Maps](https://maps.google.com/maps?q=Winsener+Str.+111,+29614+Soltau&ie=UTF8&ll=53.001233,9.860015&spn=0.002631,0.006453&oe=utf-8&client=firefox-a&hnear=Winsener+Stra%C3%9Fe+111,+29614+Soltau,+Deutschland&t=h&z=18)
-* Bilder Böhmesaal ([Nr. 1](https://www.dropbox.com/s/37fti1wxl03m2ey/IMG_0002.jpg), [Nr 2](https://www.dropbox.com/s/pluoirst9emfis7/IMG_0003.jpg), [Nr 3](https://www.dropbox.com/s/g9yredi2fgtoyv5/IMG_0118.jpg), [Nr 4](https://www.dropbox.com/s/9cu7r5g4qj6incq/IMG_9991.JPG), [Nr 5](https://www.dropbox.com/s/mnfz9z5qifuvc77/IMG_9995.JPG))
 
 ## Ausgeschieden
 
