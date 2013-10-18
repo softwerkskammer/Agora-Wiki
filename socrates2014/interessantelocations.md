@@ -4,6 +4,7 @@
 
 ### Hotel Park Soltau
 * [[SoltauAntwortAufAnfrage]]
+* [[Planungs Details]]
 * Sehr interessant - aber fast schon etwas klein?!
 * 117 EZ, 12 DZ, 56 Junior-DZ, 2 Suiten (EZ)
  * Bei Einzelbelegung der Junior-DZ: 199 Personen
