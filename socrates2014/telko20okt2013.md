@@ -5,7 +5,7 @@
 * Pierlugi schaut sich Soltau vermutlich am 10.11. an
 * Marcus Gärtner hat sich Soltau schon angesehen und sein [Feedback an Nicole geschickt](http://www.softwerkskammer.org/mailarchive/message/19134D9C-133D-4ED5-A8CA-8C52181DB9FE%40me.com)
 
-### Arbeitspakete 
+### Arbeitsbereiche
 
 * Sponsoring
     * Martin & Joachim nehmen sich des Themas an
@@ -21,6 +21,7 @@
 
 * Website & Marketing
     * Frank nimmt sich des Themas an
+    * Website sollte zeitnah mit Termin "Anfang August 2014" aktualisiert werden
     * Wir werden durch die erhöhte Teilnehmerzahl mehr Marketing brauchen
     * Ehemalige Teilnehmer direkt anschreiben
     * Auch internationale Gäste explizit und mit viel Vorlauf einladen
@@ -28,3 +29,12 @@
 * Experience & Programm
     * Wolfgang 
     * Was machen wir am Sonntag?
+    * Wollen wir eine Keynote?
+
+* Tshirts
+    * Mariya kümmert sich darum
+
+### Weitere Punkte
+
+* Wann genau ist der späteste Storno-Zeitpunkt für Soltau?
+* Nächste Telko findet (außerhalb des bisherigen 3-wöchigen Rhythmus) am 17.11.13 statt. Dort wollen wir, auch basierend auf Pierluigis Einschätzung, entscheiden, ob die SoCraTes2014 in Soltau stattfindet oder nicht.
