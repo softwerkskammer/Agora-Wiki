@@ -25,3 +25,6 @@
     * Ehemalige Teilnehmer direkt anschreiben
     * Auch internationale Gäste explizit und mit viel Vorlauf einladen
 
+* Experience & Programm
+    * Wolfgang 
+    * Was machen wir am Sonntag?
