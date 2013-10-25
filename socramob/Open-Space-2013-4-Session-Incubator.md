@@ -17,3 +17,15 @@ Beschreibung...
 *Interessiert:* DEIN NAME (DEIN BEITRAG)
 
 ## Session-Vorschläge
+
+**Workshop/Dojo: Echtzeit Kommunikation mit NodeJS, Socket.IO und AngularJS**
+
+Beim OpenSpace 2013-3 gab es schon eine adhoc Session zum Thema NodeJS, die imho auf reges Interesse gestoßen ist. Dieses Mal würde ich das ganze etwas strukturierter angehen und habe dafür mit Andreas ein kleines Beispiel vorbereitet, das wir gemeinsam entwickeln können.
+
+Prerequisites:
+- Git + Github Account
+- Lauffähige NodeJS Dev Umgebung
+- Avatar bei gravatar.com ;)
+
+*Session-Leiter:* Raimo Radczewski (und ggf. Andreas Simon)
+*Interessiert:* 
