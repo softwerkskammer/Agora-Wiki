@@ -6,6 +6,7 @@
 
 # Über das Coden
 * [[Links und Literatur]]
-### Hilfe und weitere Hinweise
+
+# Hilfe und weitere Hinweise
 * Zum Experimentieren mit der Wiki Syntax steht die [Spielwiese](/wiki/spielwiese/) zur Verfügung.
 * [Hilfe gibt's hier](/wiki/hilfe/)
