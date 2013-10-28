@@ -1,5 +1,6 @@
 # Über die Softwerkskammer
 
+* [[Wie gründe ich eine Softwerkskammer-Regionalgruppe?]]
 * [[Softwerkskammer-Historie]]
 * [[SoCraTes]] Konferenz
 * [Craftsman Swaps](/wiki/craftsmanswap/index) - Mitarbeiter Tausch
