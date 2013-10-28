@@ -7,10 +7,12 @@
 |Räume & Material Sa.|	5? (# Räume)	|50,- für Flipcharts|	 50,-|
 |Tagungspauschale Fr.|	72 (# Teilnehmer)|	43,-	|3096,-|
 |Tagungspauschale Sa.|	72 (# Teilnehmer)|	43,-	|3096,-|
-|T-Shirts (shirtfriends.com)|	72 (# Teilnehmer)	|15,- ()	|1080,-|
+|T-Shirts (shirtfriends.com)|	72 (# Teilnehmer)	|15,- (*)	|1080,-|
 |Div. Materialien, Unerwartetes|	1	|wir brauchen nix...	||
-|WLan pauschal|	1	|100,- ()|	100,-|
+|WLan pauschal|	1	|100,- (*)|	100,-|
 |Räume Do. abend|	1	| inklusive||	
 |Coderetreat am So.|	33	|43,-	|1419,-|
 |Raum am So.	|	inklusive	||
 |**Gesamtsumme**	|	||	**8891,-**|
+
+(*) dieser Preis stammt noch aus 2011 und muss ggf. aktualisiert werden
