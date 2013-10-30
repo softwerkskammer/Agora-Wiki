@@ -8,7 +8,7 @@
 
 #### Was bedeuten die ganzen Eingabefelder auf der Gruppen-Erstellungsseite?
 * Wenn Du unsicher bist, was Du in welche Felder reinschreiben solltest, dann schau einfach bei einer der anderen Gruppen (als Admin darfst Du sie im Bearbeitungsmodus anschauen) und mach es so ähnlich. 
-Du kannst auch mit der Maus über die Fragezeichen an den Feldern fahren, um etwas Hilfestellung zu bekommen.
+* Du kannst auch mit der Maus über die Fragezeichen an den Feldern fahren, um etwas Hilfestellung zu bekommen.
 
 #### Wie kann ich eine Mailingliste anlegen?
 * Lege einfach eine neue Regionalgruppe an. Dadurch wird automatisch auch eine Mailingliste erstellt.
