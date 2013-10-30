@@ -14,9 +14,8 @@
   - IDE WebStorm von Jetbrains
   - Buch: JavaScript the good parts
   - Webseite: JavaScript Garden
- - Denkform GmbH in Wallau Büroraum für IT/Design zu Vermieten inkl. 
+ - Denkform GmbH in Wallau Büroraum für IT/Design zu Vermieten inkl. Infrastruktur Jahre/Wochen,... 
  - Online Kanbanboard: Trello
-Infrastruktur Jahre/Wochen,...
 - Lean Coffee
  1. Umgang mit schwierigen Teammitgliedern (13 Stimmen) done!
  2. Elixir (10 Stimmen) http://elixir-lang.org done!
