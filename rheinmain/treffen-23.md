@@ -12,8 +12,9 @@
  - JavaScript
     - ist nicht so schlimm wie sein Ruf, man muss sich darauf einlassen :)
   - IDE WebStorm von Jetbrains
-  - Buch: JavaScript the good parts
-  - Webseite: JavaScript Garden
+  - Buch: [JavaScript the good parts](http://www.amazon.de/JavaScript-Parts-Working-Shallow-Grain/dp/0596517742)
+  - Buch: [Professional JavaScript for Web Developers (Wrox Programmer to Programmer)](http://www.amazon.de/Professional-JavaScript-Developers-Wrox-Programmer/dp/047022780X) 
+  - Webseite: [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
  - Denkform GmbH in Wallau Büroraum für IT/Design zu Vermieten inkl. Infrastruktur Jahre/Wochen,... 
  - Online Kanbanboard: Trello
 - Lean Coffee
