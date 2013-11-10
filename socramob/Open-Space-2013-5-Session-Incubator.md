@@ -17,3 +17,11 @@ Beschreibung...
 *Interessiert:* DEIN NAME (DEIN BEITRAG)
 
 ## Session-Vorschläge
+
+**Mobile App-Entwicklung mit HTML5 via Intel XDK**
+
+Das Intel XDK ist relativ neu und integriert die verschiedenen Entwicklungsschritte ziemlich gut. Ich arbeite zwar selbst noch nicht lange damit, aber kann das Systems mal zeigen. Von der Installation der IDE auf dem Laptop bis zur "Hallo Welt"-App auf dem Handy dauert es nur 20 Minuten. 
+Man könnte daraus auch eine gemeinsame coding-Session machen, bei der wir erst die IDE installieren, und am Ende hat jeder eine fertiges Setup auf seinem Laptop um eine HTML5-Cross-Platform-App zu schreiben. 
+
+*Session-Leiter:* Thomas Werner
+*Interessiert:* DEIN NAME (DEIN BEITRAG)
