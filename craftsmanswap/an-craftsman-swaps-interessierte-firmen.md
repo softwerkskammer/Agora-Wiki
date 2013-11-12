@@ -1,3 +1,3 @@
 ## An Craftsman Swaps interessierte Firmen
 
-* msgGillardon AG, Kontakt: [Nicole Rauch](/members/Nicole)
+* [msgGillardon AG](http://msg-gillardon.de), Kontakt: [Nicole Rauch](/members/Nicole)
