@@ -12,6 +12,10 @@ Laut [Wikipedia](http://en.wikipedia.org/wiki/Software_craftsmanship) haben die 
 * Daniel Temme: http://danieltemme.blogspot.de/2013/08/journeyman-weeks.html
 * Ralf Westphal: http://www.dotnetpro.de/Grafix/OnlineArticles/westphal_walz.pdf
 
+### Interessenten
+
+* [[An Craftsman Swaps interessierte Firmen]]
+
 ### Softwerkskammer Gruppe
 
 Zur Organisation von Craftsman Swaps gibt es eine eigene Diskussionsgruppe bei der Softwerkskammer: [craftsmanswap](/groups/craftsmanswap)
