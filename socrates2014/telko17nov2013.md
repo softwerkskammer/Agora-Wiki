@@ -4,8 +4,9 @@
 
 ### Protokoll
 
-* Entscheidung für Soltau. Datum für 2014 ist somit auf 07.08.-10.08.14 ist 
+* Entscheidung für Soltau. Datum für 2014 ist somit auf 07.08.-10.08.14 festgelegt.
 * Nicole schickt Email zu 2014 an Alumni
 * Twitter Account Namen ändern und Datum für 2014 announcen
-* Website sollte zeitnah aktualisiert
+* Website sollte zeitnah aktualisiert werden
     * Logo für 2014 machen --> Marc
+* Wolfgang lädt zu einem "Brainstorming" zum Thema "Programm" ein 
