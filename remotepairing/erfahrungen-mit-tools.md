@@ -6,11 +6,11 @@ Folgende Tools gibt es, und so werden sie im Hinblick auf ihre Tauglichkeit bewe
 - [Link](http://www.teamviewer.com)
 - ...
 
-### Google Hangout mit Screen Sharing
+#### Google Hangout mit Screen Sharing
 - ...
 
-### Skype mit Screen Sharing
+#### Skype mit Screen Sharing
 - ...
 
-### Eclipse + Saros
+#### Eclipse + Saros
 - ...
