@@ -4,7 +4,7 @@ Folgende Tools gibt es, und so werden sie im Hinblick auf ihre Tauglichkeit bewe
 
 #### TeamViewer
 - [Link](http://www.teamviewer.com)
-- ...
+- TeamViewer mit Skype/Google Hangout. Der Host gibt seine Maschine für den Gast remote frei. Funktioniert gut, siehe [Remote Pair Practice - Code Cop Blog](http://blog.code-cop.org/2012/08/remote-pair-practice.html)
 
 #### Google Hangout mit Screen Sharing
 - ...
