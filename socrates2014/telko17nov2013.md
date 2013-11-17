@@ -10,3 +10,4 @@
 * Website sollte zeitnah aktualisiert werden
     * Logo für 2014 machen --> Marc
 * Wolfgang lädt zu einem "Brainstorming" zum Thema "Programm" ein 
+* Zum Thema "Keynote durch eine 'Celebrity'": Es sollte keine "Hubschrauber" Celebs geben, die nur für einen Vortrag kommen und dann wieder gehen. Stattdessen wollen wir gezielt einige bekanntere Leute gezielt ansprechen, ob sie Lust haben zu kommen, ohne Sonderstellung, Sonderbehandlung etc. Wolfgang unternimmt die ersten Schritte in der Richtung. 
