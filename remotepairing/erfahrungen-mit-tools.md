@@ -14,3 +14,7 @@ Folgende Tools gibt es, und so werden sie im Hinblick auf ihre Tauglichkeit bewe
 
 #### Eclipse + Saros
 - [Saros Project](http://www.saros-project.org/)
+
+#### Collaboration Editor im Browser
+
+- [Friend Code](https://friendco.de/)
