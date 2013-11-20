@@ -8,6 +8,7 @@ Hier finden sich alle Informationen rund um die Organisation der [SoCraTes](/wik
 * [[Geldbedarf]]
 * [[TelkoProtokolle]]
 * [Arbeitsbereiche](Arbeitsbereiche)
+* [[EingeladeneBeruemteLeute]]
 
 ### Archiv
 
