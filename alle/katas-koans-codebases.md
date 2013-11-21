@@ -19,9 +19,11 @@
 [Python Koans](https://bitbucket.org/gregmalcolm/python_koans/wiki/Home)
 [Ruby Koans](http://rubykoans.com)
 [Haskell Koans](http://www.haskell.org/haskellwiki/Koans)
-Functional Koans, in OCaml
+[Functional Koans](http://translatedby.com/you/functional-programming-koans-in-ocaml/original/), in OCaml
 [Scala Koans](https://github.com/rubbish/scala-koans) von rubbish
 [Scala Koans](http://www.scalakoans.org) von Dianne Marsh und anderen
+[Javascript Koans](https://github.com/mrdavidlaing/javascript-koans), by David Laing
+[Javascript Koans](https://github.com/liammclennan/JavaScript-Koans), by Liam McLennan
 Javascript Functional Programming Koans
 [Funktional mit F#](https://github.com/ChrisMarinos/FSharpKoans) (VS Solution)
 [F# Snippets](http://fssnip.net/bG)
