@@ -7,6 +7,7 @@
 
 # Über das Coden
 * [[Links und Literatur]]
+* [[Usergroups im deutschsprachigen Raum]]
 
 # Hilfe und weitere Hinweise
 * Zum Experimentieren mit der Wiki Syntax steht die [Spielwiese](/wiki/spielwiese/) zur Verfügung.
