@@ -6,6 +6,7 @@
 * [Craftsman Swaps](/wiki/craftsmanswap/index) - Mitarbeiter Tausch
 
 # Über das Coden
+* [[Katas, Koans, Codebases]]
 * [[Links und Literatur]]
 * [[Usergroups im deutschsprachigen Raum]]
 
