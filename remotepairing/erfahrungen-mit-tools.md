@@ -26,5 +26,7 @@ Folgende Tools gibt es, und so werden sie im Hinblick auf ihre Tauglichkeit bewe
 - [Friend Code](https://friendco.de/)
 
 #### ScreenHero
-- [Screen Hero](http://screenhero.com/) "Collaborative Screen Sharing - You each get your own mouse, and you're both always in control."
+- Kostenlos [Link](http://screenhero.com/) 
+- "Collaborative Screen Sharing - You each get your own mouse, and you're both always in control."
 - Gibt es für Windows und Mac
+- Macht einen interessanten Eindruck
