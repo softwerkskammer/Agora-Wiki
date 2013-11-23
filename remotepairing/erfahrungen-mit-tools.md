@@ -20,6 +20,7 @@ Folgende Tools gibt es, und so werden sie im Hinblick auf ihre Tauglichkeit bewe
 
 #### Eclipse + Saros
 - [Saros Project](http://www.saros-project.org/)
+- sieht spannend aus, bekomme ich aber nicht mit Google Talk (AKA Hangouts) zum laufen
 
 #### Collaboration Editor im Browser
 
