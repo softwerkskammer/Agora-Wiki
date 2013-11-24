@@ -1,0 +1,1 @@
+# Hilfe für Aktivitäten
