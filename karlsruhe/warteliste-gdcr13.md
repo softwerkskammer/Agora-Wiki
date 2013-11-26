@@ -4,4 +4,5 @@ Bitte trage Deinen Usernamen ein, wenn Du benachrichtigt werden willst, wenn noc
 
 * Jan Sauerwein
 * Patrick Kromeyer
+* Rusi Filipov (rfilipov)
 * ...
