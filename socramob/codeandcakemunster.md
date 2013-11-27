@@ -37,3 +37,4 @@ Bisherige Themen
     * [Tag auf GitHub](https://github.com/socramob/GildedRose/tree/code-and-cake-2013-09-27)
     * [Whole Values](http://c2.com/ppr/checks.html#1): Über die Modellierung von Werten in Software-Systemen
  * 2013-10-11 Fortsetzung der Legacy Code Kata
+ * 2013-11-22 Bericht von den XP Days und [Refactoring Legacy Code](https://github.com/NicoleRauch/RefactoringLegacyCode)
