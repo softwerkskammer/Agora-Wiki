@@ -11,3 +11,5 @@ Protokolle der Treffen
 [[Treffen #22]]
 
 [[Treffen #23]]
+
+[[Treffen #24]]
