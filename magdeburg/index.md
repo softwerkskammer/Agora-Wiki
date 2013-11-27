@@ -3,7 +3,7 @@
 Die Regionalgruppe Magdeburg ist noch recht jung. Das Gründungstreffen fand am 2. September 2013 statt. 
 
 ## Unsere Treffen
-Das nächste Treffen findet am 18.11 um 19:00 statt. [Anmeldung](http://www.softwerkskammer.org/activities/magdeburg_treffen_3)
+Wir treffen uns unregelmäßig, einmal im Monat.
 
 ### Themen
 
