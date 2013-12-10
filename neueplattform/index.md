@@ -5,4 +5,4 @@
 
 * Das Backlog: https://github.com/softwerkskammer/Agora-Backlog
 
-* Der Hangout: Jeden Freitag um 21 Uhr hier. Abstimmung erfolgt per Mail über die Liste dieser Gruppe
+* Der Hangout: Jeden Donnerstag um 21 Uhr. Abstimmung und Einladung erfolgt per Mail über die Liste dieser Gruppe
