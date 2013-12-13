@@ -20,6 +20,10 @@ Markus Gärtner fragt an:
 * Emily Bache
 * Corey Haines
 
+Mariya Angelova fragt an:
+
+* Roy Osherove
+
 ----
 Hier eine Beispiel-Einladung_
 Hi <Celebrity>,
