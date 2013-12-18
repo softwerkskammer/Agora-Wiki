@@ -38,3 +38,4 @@ Bisherige Themen
     * [Whole Values](http://c2.com/ppr/checks.html#1): Über die Modellierung von Werten in Software-Systemen
  * 2013-10-11 Fortsetzung der Legacy Code Kata
  * 2013-11-22 Bericht von den XP Days und [Refactoring Legacy Code](https://github.com/NicoleRauch/RefactoringLegacyCode)
+ * 2013-12-06 ???
