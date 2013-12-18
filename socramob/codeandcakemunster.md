@@ -1,13 +1,11 @@
-Code & Cake in Münster
-===
+# Code'n'Cake in Münster
 
 In Analogie zu den Londoner Code & Coffee Treffen hat der SoCraMOB den Code & Cake ins Leben gerufen.
 **Jeden zweiten Freitag** treffen wir uns **um 16:30 Uhr** in der [ehem. Dreifaltigkeitskirche, Grevener Straße 106, 48159 Münster](https://maps.google.de/maps?daddr=51.974584,7.612763&hl=de&ll=51.968596,7.626057&spn=0.091482,0.12188&sll=51.974574,7.613327&sspn=0.002858,0.003809&mra=mift&mrsp=1&sz=18&t=m&z=13).
 
 Ankündigungen zum Code&Cake in Münster werden über die Gruppe [SoCraMOB](http://www.softwerkskammer.org/groups/socramob) und den [Kalender der Softwerkskammer](http://www.softwerkskammer.org/activities/upcoming) verbreitet. Damit für jeden ein Stück Kuchen vorhanden ist, würden wir uns freuen, wenn Du dich beim Event als Gast einträgst.
 
-Bisherige Themen
----
+## Bisherige Themen
 
  * 2012-06-15 Kick-Off
  * 2012-08-17 Personal Kanban Board, Vorstellung von UDP-Bots zum Meiern (in Anlehnung an die SoCraTes 2012 / Session von Gregor Gramlich und Conrad Müller: [maexchen auf github](https://github.com/conradmueller/maexchen))
