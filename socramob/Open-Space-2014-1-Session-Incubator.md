@@ -1,8 +1,8 @@
 # Session Incubator
 für SoCraMOB Open Space 2014.1 in Bielefeld
 
-Auf dieser Seite sammeln wir Ideen zu Sessions für den SoCraMOB Open Space 2014.1 am xx. Februar in Bielefeld. Teilnehmer, die eine Session leiten wollen, haben Gelegenheit, andere interessierte Teilnehmer zu finden, die bei der Vorbereitung und Durchführing der Session helfen wollen.
-*Diese Seite dient **nicht** der Erstellung des Zeitplans; dies geschieht – wie üblich – zu Beginn des Tages um 9:30 Uhr.*
+Auf dieser Seite sammeln wir Ideen zu Sessions für den SoCraMOB Open Space 2014.1 am 15. Februar in Bielefeld. Teilnehmer, die eine Session leiten wollen, haben Gelegenheit, andere interessierte Teilnehmer zu finden, die bei der Vorbereitung und Durchführing der Session helfen wollen.
+*Diese Seite dient **nicht** der Erstellung des Zeitplans; dies geschieht – wie üblich – zu Beginn des Tages um 10:00 Uhr.*
 
 ## Wie funktioniert's?
 **Um eine neue Session vorzuschlagen**, kopiere die unten stehende Vorlage und füge Deine Idee zur Liste hinzu.
