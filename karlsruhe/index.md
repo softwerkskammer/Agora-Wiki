@@ -3,7 +3,7 @@
 Hier sammeln wir alles, was lokal interessiert.
 
 ## Materialien zu den Treffen
-* September 2013: From Push to Pull gibt es im [globalen Wiki](../alle/links-und-literatur)
+* September 2013: From Push to Pull gibt es im [globalen Wiki](../alle/katas-koans-codebases)
 
 ### Themensammlung
 
