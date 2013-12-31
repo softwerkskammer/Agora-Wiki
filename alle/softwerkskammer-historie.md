@@ -48,7 +48,7 @@ Die dritte SoCraTes-Konferenz findet statt. Sie hat sich als überregionales Tre
 Am ersten Abend wird der Groupspaces-Account der Softwerkskammer stillgelegt, Agora bildet jetzt die alleinige Webpräsenz. Kurz vor der Abschaltung sind knapp 700 Mitglieder auf der Groupspaces-Plattform registriert, davon sind bereits fast 300 Mitglieder auf Agora gewechselt. Auf der SoCraTes werden die Regionalgruppen Zürich und Bonn ins Leben gerufen, damit ist die Zahl der Regionalgruppen auf 15 gestiegen.
 
 ### September 2013:
-Die 16. Regionalgruppe startet, zunächst in Leipzig, später in "Sachsen" umgewandelt.
+Die 16. Regionalgruppe startet, zunächst in Leipzig, später wird sie in "Sachsen" umbenannt.
 
 ### November 2013:
 Die zweite Bestellung von Softwerkskammer-Kleidungsstücken wird geliefert und verteilt.
