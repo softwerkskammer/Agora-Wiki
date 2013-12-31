@@ -46,3 +46,16 @@ Der Webauftritt der Softwerkskammer ist jetzt auf den gesamten deutschsprachigen
 ### August 2013:
 Die dritte SoCraTes-Konferenz findet statt. Sie hat sich als überregionales Treffen der Softwerkskammer-Mitglieder etabliert, was man auch daran erkennen kann, dass sie nach etwa 30 Sekunden (!) ausgebucht war. 
 Am ersten Abend wird der Groupspaces-Account der Softwerkskammer stillgelegt, Agora bildet jetzt die alleinige Webpräsenz. Kurz vor der Abschaltung sind knapp 700 Mitglieder auf der Groupspaces-Plattform registriert, davon sind bereits fast 300 Mitglieder auf Agora gewechselt. Auf der SoCraTes werden die Regionalgruppen Zürich und Bonn ins Leben gerufen, damit ist die Zahl der Regionalgruppen auf 15 gestiegen.
+
+### September 2013:
+Die 16. Regionalgruppe startet, zunächst in Leipzig, später in "Sachsen" umgewandelt.
+
+### November 2013:
+Die zweite Bestellung von Softwerkskammer-Kleidungsstücken wird geliefert und verteilt.
+
+### Dezember 2013:
+Der Global Day of Coderetreat ist im deutschsprachigen Raum mit 19 Events vertreten, und alle sind auf der Softwerkskammer-Plattform aufgelistet. Agora wurde hierfür um beschränkte Benutzerregistrierungen und Wartelisten erweitert.
+Auch die Internationalisierung wurde im Dezember umgesetzt.
+Zum Jahresende sind bereits wieder knapp 600 Mitglieder in der Softwerkskammer registriert.
+
+---
