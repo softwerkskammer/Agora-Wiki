@@ -15,7 +15,7 @@ Dies ist eine Sammlung regelmäßiger und aktiver Events im deutschsprachigen Ra
 * Karlsruher Coding Dojo: Treffen etwa einmal pro Monat. Alles weitere erfährt man über die Xing-Gruppe [.NET UserGroup Karlsruhe](https://www.xing.com/net/devgroup-ka).
 * [.NET UserGroup Karlsruhe](http://www.dotnet-ka.de): Treffen etwa einmal pro Monat.
 * [The Karlsruhe Functional Programmers Meetup Group](http://www.meetup.com/The-Karlsruhe-Functional-Programmers-Meetup-Group/): Treffen etwa einmal pro Monat.
-* [Javascript Usergroup Karlsruhe](https://www.xing.com/net/jsugka)
+* [Javascript Usergroup Karlsruhe](http://karlsruhejs.org/): Treffen etwa einmal pro Monat
 
 #### Mannheim
 * [Java User Group Mannheim](http://jug-mannheim.mixxt.de/networks/events/index): etwa ein Vortrag pro Monat
