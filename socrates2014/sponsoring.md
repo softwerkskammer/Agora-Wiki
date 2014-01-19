@@ -19,6 +19,8 @@ Kosten: 5000€, zusätzlich zu Silber:
 - DIN A4 Info-Blatt für die Konferenz-Unterlagen
 - Exklusive Präsentation (Logo, Infotisch)
 
+Mit dieser Aufteilung würden wir bei 1 Gold, 5 Silber und 14 Bronze auf 25.500€ kommen.
+
 # Sponsoringvereinbarung
 [[https://docs.google.com/document/d/1sv2DNEt13U3UxsJ37l3d8yZIfIpKVohSN40KnQhDZvc]] (Entwurf)
 
