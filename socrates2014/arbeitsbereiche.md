@@ -2,7 +2,7 @@
 
 Die folgenden Bereiche wurden in der [Telko am 20. Okt 2013](telko20okt2013) identifiziert.
 
-* Sponsoring
+* [[Sponsoring]]
     * Martin & Joachim nehmen sich des Themas an
     * Viele kleine Sponsoren vs wenige große Sponsoren: Tendiert
     * Durchaus unterschiedliche Sponsoringpakete, aber bitte keine Möglichkeit zur Auslage von Werbematerialien
