@@ -1,33 +1,8 @@
 # Regionalgruppe Magdeburg
 
-Die Regionalgruppe Magdeburg ist noch recht jung. Das Gründungstreffen fand am 2. September 2013 statt. 
+Hier findest du alles, was wir für wichtig erachten.
 
-## Unsere Treffen
-Wir treffen uns unregelmäßig, einmal im Monat.
-
-### Themen
-
-* Technologien
-    * ALM & Continuous Integration mit TFS / Jenkins / FinalBuilder
-    * Git / GitHub / BitBucket
-    * Cloud Computing
-    * NoSQL / BigData
-
-
-* Softwareentwicklung
-    * Entwickeln für iOS / Android / Windows (Phone) 8
-    * Entwickeln mit Go
-    * Testgetrieben entwickeln
-    * Softwaredesign
-    * Softwarearchitektur
-    * Patterns
-
-
-* Hardware
-    * Lego Mindstorm
-    * Raspberry Pi
-
-
-### Protokolle
+## Historie
+Eine kleine Historie unserer Treffen zum Nachschlagen, in Erinnerungen schwelgen und neugierig werden.
 
 * [[Treffen #1]]
