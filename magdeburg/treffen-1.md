@@ -7,3 +7,26 @@
 * Was ist Software Craftsmanship
 * Was ist die Softwerkskammer
 * Diskussionsrunde
+
+## Ergebnis
+Für künftige Treffen haben wir folgene Themenvorschläge zusammengetragen:
+
+* Technologien
+    * ALM & Continuous Integration mit TFS / Jenkins / FinalBuilder
+    * Git / GitHub / BitBucket
+    * Cloud Computing
+    * NoSQL / BigData
+
+
+* Softwareentwicklung
+    * Entwickeln für iOS / Android / Windows (Phone) 8
+    * Entwickeln mit Go
+    * Testgetrieben entwickeln
+    * Softwaredesign
+    * Softwarearchitektur
+    * Patterns
+
+
+* Hardware
+    * Lego Mindstorm
+    * Raspberry Pi
