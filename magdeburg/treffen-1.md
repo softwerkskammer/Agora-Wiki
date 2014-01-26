@@ -1,15 +1,10 @@
-# 1. Treffen der SWK Magdeburg
+## 1. Treffen der SWK Magdeburg
 
 **Termin**: [02.09.2013](http://www.softwerkskammer.org/activities/magdeburg_treffen_1)
 
-## Agenda
-* Vorstellungsrunde
-* Was ist Software Craftsmanship
-* Was ist die Softwerkskammer
-* Diskussionsrunde
+**Thema**: Kick off der Softwerkskammer Magdeburg
 
-## Ergebnis
-Für künftige Treffen haben wir folgene Themenvorschläge zusammengetragen:
+Zum Kick off der Softwerkskammer Magdeburg gab es anfangs eine kleine Vorstellungsrunde, der schnell eine lebhafte Diskussion über Codequalität, TDD, Vorgehensmodelle wie Wasserfall und agil etc. pp. folgte. Zum Abschluss haben wir eine eine Themenliste erarbeitet, die als Anregung für kommende Treffen dienen kann:
 
 * Technologien
     * ALM & Continuous Integration mit TFS / Jenkins / FinalBuilder
