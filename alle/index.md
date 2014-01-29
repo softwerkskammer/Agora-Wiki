@@ -8,7 +8,10 @@
 # Über das Coden
 * [[Katas, Koans, Codebases]]
 * [[Links und Literatur]]
+
+# Meetings und Konferenzen
 * [[Usergroups im deutschsprachigen Raum]]
+* [[Europaweite Veranstaltungen 2014]]
 
 # Hilfe und weitere Hinweise
 * Zum Experimentieren mit der Wiki Syntax steht die [Spielwiese](/wiki/spielwiese/) zur Verfügung.
