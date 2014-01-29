@@ -1,0 +1,31 @@
+#Lean Coffee & Game of Life Code Kata
+
+Nachdem wir uns im Juli in einer Kneipe getroffen haben um über unsere Pläne fürs nächste Jahr zu sprechen, trafen wir uns am 26.08. um damit anzufangen. Zuerst gings um jede Menge Legacy Code und danach gings ans Eingemachte bei einem Game of Life Kata.
+
+Wir veranstalteten einen Lean Coffee, d.h. dass man auf Post-Its Themen sammelt, dann abstimmt welche am Interessantesten sind und die vom Interessantesten an runter diskutiert. Damit man sich nicht an einem Thema zu lange aufhält wird alle 5 Minuten abgestimmt: Weiterreden oder nächstes Thema?
+Bei den Post-Its die wir so sammelten war vorallem ein Thema ganz vorne: Legacy Code. Wir alle haben mit Legacy Code zu kämpfen. Manchmal ist der nichtmal besonders alt: Ein Kollege erzählten von einem 4 Monate alten Greenfield-Projekt, dass mittlerweile auch stark nach Legacy riecht.  
+
+Jeder der Teilnehmer war schonmal in der Situation, dass er eine riesige (>1000 Zeilen) Methode reparieren oder erweitern sollen. Bei solchen Biestern weiß man oft gar nicht, wie man anfangen soll und wir tauschten Techniken aus:
+   * Divide & Conquer: Zerteile die Methode in immer kleinere Methoden und teste diese einzeln
+   * Idealerweise unterstützt von einem Regressionstest, der die große Methode aufruft (was leider nicht immer möglich ist bei stark verwickeltem code)
+   * Feste (versteckte) Abhängigkeiten wie direkte Datenbankverbindungen kann man manchmal in den Griff kriegen, indem man sie in eine Methode einer Superklasse verpackt, daraus erbt, sie  Test überschreibt und dann die Kommunikation zwischen Methode und Datenbank zu testen
+   * Konstruktoraufrufe kann man gut durch init und set-Methoden ersetzen, mit denen man dann testen kann
+Wir disktutierten auch den Wert von Kommentaren bei Legacy Code. Ein Kollege erzählte, wie er einmal ein Kommentar fand "diese Methode sollte das returnen" und in der Zeile darunter wurde etwas anderes returnte. Also änderte er den return-Wert, woraufhin die Software nicht mehr funktionierte. Ein anderer Kollege erzählte daraufhin, bei Legacy Code lösche er immer erst alle Kommentare, weil sie sehr selten stimmen.
+
+Als nächstes ging es darum, wie man sein Staging environment synchron mit Production konfiguriert. Ein Kollege hat das Problem, dass er für das Stagingenvironment relativ hohen Wartungsaufwand hat, um alle Konfigurationsänderungen der einzelnen Services mitzukriegen. Als Software dafür wurde Chef (http://www.opscode.com/chef/) in die Runde geworfen, es gab aber mehrere Stimmen, die von zuvielen Einschränkungen bei Chef sprachen. Ein Kollege von immobilienscout berichtete, dass sie dieses Problem mit Lab Manager Light (https://github.com/ImmobilienScout24/lab-manager-light) in den Griff bekommen haben und damit schneller und agiler entwickeln konnten.
+
+Danach redeten wir über Code-Qualitätsmetriken, denn gerade bei Reviews kommt immer wieder die Frage auf: Was ist guter Code? Und gibt es dafür brauchbare Metriken?
+Wir alle waren uns schnell einig, dass die einzige Metrik für Codequalität WTFs/Minute sind (http://codinghorror.typepad.com/.a/6a0120a85dcdae970b012877707a45970c-pi). Metriken von Jenkins, Sonar oder aus der QA-Welt eingeführt werden sidn immer mit Vorsicht zu genießen und manchmal sogar schädlich. Martin erzählt von einer größeren Firma für die er gearbeitet hat, die Sonar einführte. Ein Manager war davon besonders begeistert und schrieb eine Code Coverage von 65% vor. Martin kam ein paar Wochen danach von außen dazu und fragte aufgrund eines schlechten Bauchgefühls mal nach den Tests: Es gab Tests ohne Asserts, Tests die mit Reflection Methoden aufriefen und generell wenig sinvolles.
+Gerald Weinberg hat dazu in "Psychology of Computer Programming" (http://www.amazon.de/Psychology-Computer-Programming-Gerald-Weinberg/dp/0932633420) geschrieben, dass wir Programmierer uns nunmal den ganzen Tag den Kopf zerbrechen um diese Maschine zu manipulieren, daher fällt es uns meistens sehr leicht, einfache Metriken zu manipulieren.
+Wir fanden dann aber doch Beispiele für Metriken, die Sinn machen wenn sie aus dem Team kommen:
+	* Tendenzen, zB "Wir wollen immer mehr Tests" oder "Wir wollen immer mehr Code Coverage" haben
+	* LoC/Methode
+	* Analyse von Packageabhängigkeiten um Architekturmissverständnisse zu klären
+	* Das Repository fragen, wie häufig Dateien geändert werden: Die sehr häufig geänderten sind vielleicht Zeichen schlechter Modularisierung, die sehr selten geänderten vielleicht toter Code
+
+Dann hatten wir genug diskutiert und holten die Rechner raus. Martin hatte Flipcharts vorbereitet und erklärte uns das "Game of Life" Kata (http://de.wikipedia.org/wiki/Conways_Spiel_des_Lebens) und Kent Becks 4 Regeln für Simple Design (http://c2.com/cgi/wiki?XpSimplicityRules). Martin gab uns noch den Tipp, sich entweder auf die Regeln oder die Darstellung zu konzentrieren, dann suchten wir uns in Paaren zusammen und legten los. Da keiner der Anwensenden bei mehr als einem Kata mitgemacht hat, gab es keine zusätzlichen Constraints. 
+In meiner Gruppe waren wir uns recht unsicher, wie streng wir TDD mache müssen: Sollen wir jetzt gleich eine Instanzvariable *board* anlegen, oder warten bis ein Testcase sie erzwingt? Wir einigten uns darauf, den zukünftigen Testcase gleich vorweg zu nehmen. Wir haben dann nur 3 Testcases geschafft, dafür waren die aber besonders schick. Ich habe gelernt wie man in Eclipse durch Auto-completion Kästchen tabbt und habe ein interessantes Namensschema für Tests kennen gelernt: Statt given_when_then, when_given_then. Da der "when"-Teil oft eine Methode ist, die aufgerufen wird, werden so alle Testcases zu einer Methode unterinander in der Eclipse-Outline dargestellt. So hat man gleich die Äquivalenzklassen zur Verfügung.
+
+Wir hatten nur eine halbe Stunde eingeplant und die war viel schneller rum als gefühlt. Keiner hatte etwas annähernd lauffähiges fertiggestellt, aber darum geht es bei einem Kata ja auch nicht. Ein Paar, dass sich auf die Regeln und nicht auf die Darstellung konzentriert hat, hatte immerhin etwas mehr Erfolgsgefühl. 
+
+Nächstes Mal gibt's dann wieder Lean Coffee und ein Legacy Code Kata.
