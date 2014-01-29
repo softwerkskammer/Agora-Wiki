@@ -1,0 +1,19 @@
+#
+
+Leider hatten wir vorher keine Anweisungen rumgeschickt, wie man vorher seine Umgebung aufsetzen soll, daher mussten wir das vor Ort machen und das dauerte etwas länger, aber dabei konnten wir uns schonmal über Erfahrungen mit Javascript und neuen Sprachen im allgemeinen austauschen.
+
+Wir unterhielten uns darüber, inwiefern es Sinn macht innerhalb einer Firma verschiedene Sprachen einzusetzen. Ein Kollege aus einer javadominierten Firma erzählte, dass sie überlegten Scala einzusetzen um die Vorteile zu nutzen. Allerdings hat der doppelte Aufwand, die Toolchain zu warten und die Zeit, bis die Entwickler wirklich gut Scala einsetzen könnten sie davon abgehalten. Eine Kollegin erzählte, in ihrem Unternehmen gab es schonmal Probleme mit einem Team, das so fest auf eine Sprache eingeschossen war, dass es regelrechte Glaubenskriege gab, als dieses Team die Firmenstandardsprache benutzen sollte.
+Wir waren uns einig, dass für manche Probleme sind manche Werkzeuge (Sprachen) besser geeignet als andere.Um diese Werkzeuge besser kennen zu lernen empfahl Florian "7 Sprachen in 7 Wochen" (http://www.oreilly.de/catalog/sevenlangsevweekger/), denn es gehört zu gutem Craftmanship dazu, sich in neue Sprachen einzuarbeiten und zu erkennen, wann welches Werkzeug am Besten ist.
+
+Dazu wollten wir uns heute abend JavaScript und node.js genauer anschauen, mit der SWK-Plattform als Beispielapplikation (https://github.com/softwerkskammer/Agora). Florian führte uns am Beamer durch die Anwendung: Von start.js (https://github.com/softwerkskammer/Agora/blob/master/start.js) an zeigte er uns wo die Konfiguration ist (https://github.com/softwerkskammer/Agora/blob/master/configure.js), wie wir Abhängigkeiten auflösen können (https://github.com/softwerkskammer/Agora/blob/master/config/beans.json), wo wir die Routen finden (jeweils lib/<modul>/index.js, z.B. https://github.com/softwerkskammer/Agora/blob/master/lib/members/index.js) und die templates zu den Routen (.jade). Zu guter letzt zeigte er uns noch dir QUnit-Frontendtests, die Backendtess mit Mocha und wie wir sie ausführen können.
+
+Weil nur zugucken langweilig ist wollten wir danach eine Änderung einbauen. Keiner der Anwesenden war besonders erfahren in JavaScript oder hatte schonmal was mit node.js gemacht. Also beschlossen wir dem Nutzer ein neues Feld für den github-Account hinzufügen, weil das eine nette tour aus template, model und database ist.
+
+Ich habe versucht mit Markus durch nachdenken die richtigen Dateien zu finden aber wir kamen damit nicht zum Ende. Florian und Jan hatten dagegen einen guten Ansatz:
+Wenn man in der Seite "editieren" (link) aufruft, sieht man dass die route dazu "members/edit" ist. Über app.js sieht man, dass die Route "members" von der Bean Members (lib/members/index.js) behandelt wird. Dort sieht man, dass für die entsprechenden routen edit.jade und get.jade die Templatedateien für die members sind. Dort haben sie die Felder eingetragen indem sie Stücke kopiert haben und in member.js eine Zeile in der Mappingfunktion hinzugefügt. Das wars auch schon. Kleines Problem war, dass sie dachten es funktioniert nicht, weil in der Datenbank nichts ankam, aber ein App-Serverneustart lieferte die Lösung.
+So einfach geht das in node.js!
+
+Was noch fehlte um aus dem gehacke gutes Craftmanship zu machen war Tests zu schreiben, aber weil die Vorbereitung länger gedauert hat war es schon zu spät. Aber es hat großen Spaß gemacht! Mit der Einführung von Florian konnten wir uns alle recht schnell in der unbekannten Sprache und in dem unbekannten Framework zurechtfinden.
+
+Da wir da jetzt drin sind und es immer noch viel zu lernen gibt, wollen wir beim nächsten Mal eine größere Sache für Agora machen, vielleicht ein Blog oder internationalisierte Eventseiten. Wenn du mitmachen willst, installiere am Besten Agora wie in der Anleitung beschrieben (...). 
+Tipp: mit nvm install 0.8 bekommst du npm, dann kannst du npm install ausführen
