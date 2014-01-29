@@ -1,4 +1,4 @@
-### Europaweite Veranstaltungen 2014
+## Europaweite Veranstaltungen 2014
 
 Diese Seite bietet eine Übersicht über Konferenzen und ähnliche Veranstaltungen rund um Craftsmanship, Softwareentwicklung und Agilität.
 
