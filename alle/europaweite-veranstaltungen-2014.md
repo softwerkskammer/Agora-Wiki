@@ -4,6 +4,7 @@ Diese Seite bietet eine Übersicht über Konferenzen und ähnliche Veranstaltung
 
 Konferenz	|	Ort	|	Anfang	|	Ende	|	Kommentar	|	Link
 ---	|	---	|	---	|	---	|	---	|	---
+	|		|	`Januar`	|		|		|	
 The First International Conference on Software Archaeology	|	London	|	31.1.	|		|		|	http://ticosa.org
 	|		|	`Februar`	|		|		|	
 OOP	|	München	|	3.2.	|	7.2.	|		|	http://www.oop-konferenz.de/
