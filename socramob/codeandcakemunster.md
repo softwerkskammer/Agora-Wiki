@@ -37,3 +37,4 @@ Ankündigungen zum Code&Cake in Münster werden über die Gruppe [SoCraMOB](http
  * 2013-10-11 Fortsetzung der Legacy Code Kata
  * 2013-11-22 Bericht von den XP Days und [Refactoring Legacy Code](https://github.com/NicoleRauch/RefactoringLegacyCode)
  * 2013-12-06 nodejs
+ * 2014-01-31 [Lean Coffee](http://leancoffee.org/) ([Backlog](pic.twitter.com/nXZ17BgCtK) / [Done](pic.twitter.com/X6ykPXBiLJ))
