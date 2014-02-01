@@ -20,10 +20,11 @@ Konferenz                                                                       
 Software Passionate Summit                                                                                                     |                         |                  
 [DevCamp](http://www.nerd-zone.com/devcamp/)                                                                                   | Karlsruhe               | 21.3. - 23.3.    
 [Booster Conference](http://www.boosterconf.no/)                                                                               | Bergen                  | 12.3. - 14.3.    
-[JavaLand](http://www.javaland.eu)                                                                                             |                         | 25.3. - 26.3.    
+[JavaLand](http://www.javaland.eu)                                                                                             | Brühl, Phantasialand                        | 25.3. - 26.3.    
 Stuttgarter Testtage                                                                                                           |                         |                  
 `April`                                                                                                                        |                         |                  
 Agile Coach Camp NL                                                                                                            |                         |                  
+[BedCon](http://bed-con.org) | Berlin | 3.4. - 4.4. 
 [Agile Adria](http://agileadria.com/)                                                                                          | Terme Tuhelj (Kroatien) | 6.4. - 8.4.      
 [Codemotion](http://codemotionworld.com/roma/)                                                                                 | Rom                     | 9.4. - 12.4.     
 `Mai`                                                                                                                          |                         |                  
@@ -37,6 +38,7 @@ Agile Coach Camp NL                                                             
 [Testing & Finance Europe](http://www.testingfinance.com/)                                                                     |                         |                  
 [XP](http://www.xp2014.org/)                                                                                                   | Rom                     | 26.5. - 30.5.    
 [Karlsruher Entwicklertag](http://entwicklertag.de/)                                                                           | Karlsruhe               | 21.5. - 23.5.    
+[Berlin Buzzwords](http://berlinbuzzwords.de/) | Berlin | 25.5. - 28.5.
 `Juni`                                                                                                                         |                         |                  
 [33rd Degree: Conference for Java Masters](http://2014.33degree.org/)                                                          | Krakau                  | 9.6. - 11.6.     
 [SoCraTes UK](http://socratesuk.org)                                                                                           | Cotswolds               | 12.6. - 15.6.    
@@ -50,6 +52,7 @@ Agile Coach Camp NL                                                             
 `Zweite Jahreshälfte`                                                                                                          |                         |                  
 [German Testing Day](http://www.germantestingday.info)                                                                         | Berlin                  | 2.7.             
 [Software Craftsmanship UK](http://www.codemanship.co.uk/softwarecraftsmanship/)                                               | UK                      |                  
+[Developer Week](http://www.developer-week.de/) | Nürnberg | 14.7. - 17.7.
 [Java Forum Stuttgart](http://www.java-forum-stuttgart.de)                                                                     | Stuttgart               | 17.7.            
 [.NET Open Space Süd](http://openspace.dotnet-ka.de)                                                                           | Karlsruhe               | 19.7. - 20.7.    
 [**SoCraTes**](http://www.socrates-conference.de)                                                                              | **Soltau**              | **7.8. - 10.8.** 
