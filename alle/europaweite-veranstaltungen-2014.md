@@ -1,6 +1,7 @@
 ## Europaweite Veranstaltungen 2014
 
 Diese Seite bietet eine Übersicht über Konferenzen und ähnliche Veranstaltungen rund um Craftsmanship, Softwareentwicklung und Agilität.
+
     | Konferenz                                                                          | Ort                     | Anfang                | Ende      | Kommentar                                    | Link                                                                                |
     | ---                                                                                | ---                     | ---                   | ---       | ---                                          | ---                                                                                 |
     | The First International Conference on Software Archaeology                         | London                  | 31.1.                 |           |                                              | http://ticosa.org                                                                   |
