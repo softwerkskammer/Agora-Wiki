@@ -71,7 +71,9 @@ EuroSTAR                                                                        
 W-JAX                                                                                                                          |                         |                  
 [GOTO Berlin](http://gotocon.com/berlin-2014)                                                                                  | Berlin                  | 6.11. - 7.11.    
 XP Days                                                                                                                        | Hamburg                 |                  
-[Agile Testing & BDD eXchange](http://skillsmatter.com/event/agile-testing/agile-testing-bdd-exchange-2014-1946)               | London                  | 28.11.           **strong text**
+[Agile Testing & BDD eXchange](http://skillsmatter.com/event/agile-testing/agile-testing-bdd-exchange-2014-1946)               | London                  | 28.11.           
+
+**strong text**
 
 ### Weitere Terminkalender im Netz
 
