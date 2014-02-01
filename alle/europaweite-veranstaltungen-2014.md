@@ -3,7 +3,7 @@
 Diese Seite bietet eine Übersicht über Konferenzen und ähnliche Veranstaltungen rund um Craftsmanship, Softwareentwicklung und Agilität.
 
 Konferenz                                                                                                                      | Ort                     | Wann             
----                                                                                                                            | ---                     | ---              
+---                                                                                                                            | ---                     | ----------              
 `Januar`                                                                                                                       |                         |                  
 [The First International Conference on Software Archaeology](http://ticosa.org)                                                | London                  | 31.1.            
 `Februar`                                                                                                                      |                         |                  
