@@ -73,8 +73,6 @@ W-JAX                                                                           
 XP Days                                                                                                                        | Hamburg                 |                  
 [Agile Testing & BDD eXchange](http://skillsmatter.com/event/agile-testing/agile-testing-bdd-exchange-2014-1946)               | London                  | 28.11.           
 
-**strong text**
-
 ### Weitere Terminkalender im Netz
 
 [Weitere Termine im Agile Calendar von Yves Hanoulle](http://www.hanoulle.be/2010/11/agile-conferences-calendar/)
