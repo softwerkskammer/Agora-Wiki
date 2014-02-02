@@ -31,17 +31,17 @@ Agile Coach Camp NL                                                             
 [Codemotion](http://codemotionworld.com/roma/)                                                                                 | Rom                     | 9.4. - 12.4.     
 [CRAFT](http://craft-conf.com/2014/)                                                                            | Budapest                     | 24.4. - 25.4.     
 `Mai`                                                                                                                          |                         |                  
+[Software Engineering + Architecture (SEACON)](http://www.sigs-datacom.de/seacon2013)                                          | Hamburg                 | 8.5. - 9.5.      
 [Scotland JS](http://scotlandjs.com/)                                                                                          | Edinburgh               | 9.5. - 10.5.     
 [JAX](http://jax.de/2014/)                                                                                                     | Mainz                   | 12.5. - 16.5.    
+[ignite - The Conference for Software Quality and Testing](http://www.iqnite-conferences.com)                                  | Düsseldorf              | 20.5. - 22.5.    
+[Karlsruher Entwicklertag](http://entwicklertag.de/)                                                                           | Karlsruhe               | 21.5. - 23.5.    
+[DevSum](http://www.devsum.se/)                                                                                                | Stockholm               | 21.5. - 23.5.    
+[Berlin Buzzwords](http://berlinbuzzwords.de/) | Berlin | 25.5. - 28.5.
 [Let's Test](http://lets-test.com/)                                                                                            | Stockholm               | 26.5. - 28.5.    
 [Agile Dev Practices](http://www.agiledevpractices.com)                                                                        | Potsdam                 | 26.5. - 28.5.    
-[ignite - The Conference for Software Quality and Testing](http://www.iqnite-conferences.com)                                  | Düsseldorf              | 20.5. - 22.5.    
-[Software Engineering + Architecture (SEACON)](http://www.sigs-datacom.de/seacon2013)                                          | Hamburg                 | 8.5. - 9.5.      
-[DevSum](http://www.devsum.se/)                                                                                                | Stockholm               | 21.5. - 23.5.    
 [Testing & Finance Europe](http://www.testingfinance.com/)                                                                     |                         |                  
-[XP](http://www.xp2014.org/)                                                                                                   | Rom                     | 26.5. - 30.5.    
-[Karlsruher Entwicklertag](http://entwicklertag.de/)                                                                           | Karlsruhe               | 21.5. - 23.5.    
-[Berlin Buzzwords](http://berlinbuzzwords.de/) | Berlin | 25.5. - 28.5.
+[XP - 15th International Conference on Agile Software Development](http://www.xp2014.org/)                                                                                                   | Rom                     | 26.5. - 30.5.    
 [I T.A.K.E Unconference](http://2014.itakeunconf.com/) | Bukarest, Rumänien | 29.5 - 30.5. |
 `Juni`                                                                                                                         |                         |                  
 [33rd Degree: Conference for Java Masters](http://2014.33degree.org/)                                                          | Krakau                  | 9.6. - 11.6.     
