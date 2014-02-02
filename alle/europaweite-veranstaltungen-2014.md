@@ -25,6 +25,7 @@ Software Passionate Summit                                                      
 Stuttgarter Testtage                                                                                                           |                         |                  
 `April`                                                                                                                        |                         |                  
 Agile Coach Camp NL                                                                                                            |                         |                  
+[CukeUp](https://cucumber.pro/cukeup/)| London | 3.4. - 4.4. 
 [BedCon](http://bed-con.org) | Berlin | 3.4. - 4.4. 
 [Agile Adria](http://agileadria.com/)                                                                                          | Terme Tuhelj (Kroatien) | 6.4. - 8.4.      
 [Codemotion](http://codemotionworld.com/roma/)                                                                                 | Rom                     | 9.4. - 12.4.     
