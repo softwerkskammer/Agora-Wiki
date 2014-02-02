@@ -42,6 +42,7 @@ Agile Coach Camp NL                                                             
 [XP](http://www.xp2014.org/)                                                                                                   | Rom                     | 26.5. - 30.5.    
 [Karlsruher Entwicklertag](http://entwicklertag.de/)                                                                           | Karlsruhe               | 21.5. - 23.5.    
 [Berlin Buzzwords](http://berlinbuzzwords.de/) | Berlin | 25.5. - 28.5.
+[I T.A.K.E Unconference](http://2014.itakeunconf.com/) | Bukarest, Rumänien | 29.5 - 30.5. |
 `Juni`                                                                                                                         |                         |                  
 [33rd Degree: Conference for Java Masters](http://2014.33degree.org/)                                                          | Krakau                  | 9.6. - 11.6.     
 [SoCraTes UK](http://socratesuk.org)                                                                                           | Cotswolds               | 12.6. - 15.6.    
