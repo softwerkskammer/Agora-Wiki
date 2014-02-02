@@ -29,6 +29,7 @@ Agile Coach Camp NL                                                             
 [BedCon](http://bed-con.org) | Berlin | 3.4. - 4.4. 
 [Agile Adria](http://agileadria.com/)                                                                                          | Terme Tuhelj (Kroatien) | 6.4. - 8.4.      
 [Codemotion](http://codemotionworld.com/roma/)                                                                                 | Rom                     | 9.4. - 12.4.     
+[CRAFT](http://craft-conf.com/2014/)                                                                            | Budapest                     | 24.4. - 25.4.     
 `Mai`                                                                                                                          |                         |                  
 [Scotland JS](http://scotlandjs.com/)                                                                                          | Edinburgh               | 9.5. - 10.5.     
 [JAX](http://jax.de/2014/)                                                                                                     | Mainz                   | 12.5. - 16.5.    
