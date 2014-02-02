@@ -8,7 +8,7 @@ Konferenz                                                                       
 [The First International Conference on Software Archaeology](http://ticosa.org)                                                | London                  | 31.1.            
 `Februar`                                                                                                                      |                         |                  
 [OOP](http://www.oop-konferenz.de/)                                                                                            | München                 | 3.2. - 7.2.      
-[JFokus](http://jfokus.se) | Stockholm | 3.5. - 7.2.
+[JFokus](http://jfokus.se) | Stockholm | 3.2. - 5.2.
 [UK Tester Forums - Test Management Forum](http://uktmf.com/index.php?q=node/5271)                                             | London                  | 5.2.             
 [Play4Agile](http://play4agile.wordpress.com/)                                                                                 | Rückersbach             | 21.2. - 24.2.    
 [Frankfurter Entwicklertag](http://www.entwicklertag.de/frankfurt/2014/)                                                       | Frankfurt               | 19.2.            
