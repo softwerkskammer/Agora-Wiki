@@ -44,6 +44,7 @@ Agile Coach Camp NL                                                             
 [XP - 15th International Conference on Agile Software Development](http://www.xp2014.org/)                                                                                                   | Rom                     | 26.5. - 30.5.    
 [I T.A.K.E Unconference](http://2014.itakeunconf.com/) | Bukarest, Rumänien | 29.5 - 30.5. |
 `Juni`                                                                                                                         |                         |                  
+[Norwegian Developers Conference - NDC](http://www.ndcoslo.com/)                                                | Oslo                  | 2.6. - 6.6. 
 [33rd Degree: Conference for Java Masters](http://2014.33degree.org/)                                                          | Krakau                  | 9.6. - 11.6.     
 [SoCraTes UK](http://socratesuk.org)                                                                                           | Cotswolds               | 12.6. - 15.6.    
 [Best Practices in Software Development - The ACE Conference (Agile Central Europe)](http://aceconf.com/)                      | Krakow                  | 16.6. - 17.6.    
@@ -85,7 +86,7 @@ EuroSTAR                                                                        
 W-JAX                                                                                                                          |                         | 
 [OpenRheinRuhr](http://www.openrheinruhr.de) |Deutschland, NRW, Oberhausen | |
 `Dezember`                                                                                                          |                         |                  
-
+[NDC-London](http://www.ndc-london.com/BackSoon)  | London | 1.12. - 5.12.     
 ### Weitere Terminkalender im Netz
 
 [Weitere Termine im Agile Calendar von Yves Hanoulle](http://www.hanoulle.be/2010/11/agile-conferences-calendar/)
