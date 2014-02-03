@@ -82,7 +82,9 @@ XP Days                                                                         
 Lean Kanban Central Europe                                                                                                     |                         |                  
 Topconf Software Conference                                                                                                    |                         |                  
 EuroSTAR                                                                                                                       |                         |                  
-W-JAX                                                                                                                          |                         |                  
+W-JAX                                                                                                                          |                         | 
+[OpenRheinRuhr](www.openrheinruhr.de)
+Deutschland, NRW, Oberhausen | |
 `Dezember`                                                                                                          |                         |                  
 
 ### Weitere Terminkalender im Netz
