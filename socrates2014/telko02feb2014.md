@@ -75,7 +75,7 @@ Todos:
 ## Misc. Todos
 
 * Brainstorming-Session für "Experience" ansetzen [Wolfgang]
-* Rückersbach absagen [Joachim via Liste]
+* Rückersbach absagen [Martin - bereits erledigt]
 
 
 ## nächste Meilensteine
