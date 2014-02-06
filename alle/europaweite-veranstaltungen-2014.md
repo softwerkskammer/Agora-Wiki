@@ -6,7 +6,8 @@ Konferenz                                                                       
 ---                                                                                                                            | ---                     | ----------              
 `Januar`                                                                                                                       |                         |                  
 [The First International Conference on Software Archaeology](http://ticosa.org)                                                | London                  | 31.1.            
-`Februar`                                                                                                                      |                         |                  
+`Februar`   |                         |   
+[FOSDEM](https://fosdem.org/2014/) | 1.2. - 2.2. | Brüssel               
 [JFokus](http://jfokus.se) | Stockholm | 3.2. - 5.2.
 [OOP](http://www.oop-konferenz.de/)                                                                                            | München                 | 3.2. - 7.2.      
 [UK Tester Forums - Test Management Forum](http://uktmf.com/index.php?q=node/5271)                                             | London                  | 5.2.             
