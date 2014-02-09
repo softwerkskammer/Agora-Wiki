@@ -6,8 +6,8 @@ Konferenz                                                                       
 ---                                                                                                                            | ---                     | ----------              
 `Januar`                                                                                                                       |                         |                  
 [The First International Conference on Software Archaeology](http://ticosa.org)                                                | London                  | 31.1.            
-`Februar`   |                         |   
-[FOSDEM](https://fosdem.org/2014/) | Brüssel   | 1.2. - 2.2.              
+`Februar`                                                                                                                      |                         |   
+[FOSDEM](https://fosdem.org/2014/)                 | Brüssel   | 1.2. - 2.2.              
 [JFokus](http://jfokus.se) | Stockholm | 3.2. - 5.2.
 [OOP](http://www.oop-konferenz.de/)                                                                                            | München                 | 3.2. - 7.2.      
 [UK Tester Forums - Test Management Forum](http://uktmf.com/index.php?q=node/5271)                                             | London                  | 5.2.             
@@ -35,6 +35,7 @@ Agile Coach Camp NL                                                             
 [Software Engineering + Architecture (SEACON)](http://www.sigs-datacom.de/seacon2013)                                          | Hamburg                 | 8.5. - 9.5.      
 [Scotland JS](http://scotlandjs.com/)                                                                                          | Edinburgh               | 9.5. - 10.5.     
 [JAX](http://jax.de/2014/)                                                                                                     | Mainz                   | 12.5. - 16.5.    
+[GeeCON](http://2014.geecon.org/)                                                                                              | Krakau                  | 14.5. - 16.5.    
 [ignite - The Conference for Software Quality and Testing](http://www.iqnite-conferences.com)                                  | Düsseldorf              | 20.5. - 22.5.    
 [Karlsruher Entwicklertag](http://entwicklertag.de/)                                                                           | Karlsruhe               | 21.5. - 23.5.    
 [DevSum](http://www.devsum.se/)                                                                                                | Stockholm               | 21.5. - 23.5.    
@@ -42,7 +43,7 @@ Agile Coach Camp NL                                                             
 [Let's Test](http://lets-test.com/)                                                                                            | Stockholm               | 26.5. - 28.5.    
 [Agile Dev Practices](http://www.agiledevpractices.com)                                                                        | Potsdam                 | 26.5. - 28.5.    
 [Testing & Finance Europe](http://www.testingfinance.com/)                                                                     |                         |                  
-[XP - 15th International Conference on Agile Software Development](http://www.xp2014.org/)                                                                                                   | Rom                     | 26.5. - 30.5.    
+[XP - 15th International Conference on Agile Software Development](http://www.xp2014.org/)                                     | Rom                     | 26.5. - 30.5.    
 [I T.A.K.E Unconference](http://2014.itakeunconf.com/) | Bukarest, Rumänien | 29.5 - 30.5. |
 `Juni`                                                                                                                         |                         |                  
 [Norwegian Developers Conference - NDC](http://www.ndcoslo.com/)                                                | Oslo                  | 2.6. - 6.6. 
