@@ -18,7 +18,7 @@ Beschreibung...
 
 ## Session-Vorschläge
 **Coding Dojo**
-Das würde ich gerne als Technik in unserer Abteilung einführen. Wer hat das schon mal gemacht und hat Tipps für den Start. Worauf kommt's an? Was sind Spaßfaktoren und was sind Spaßkiller? Naja, und dann: gleich mal ausprobieren. Kleine Java-Aufgabe aus der echten Praxis bringe ich mit.
+Das würde ich gerne als Technik in unserer Abteilung einführen. Wer hat das schon mal gemacht und hat Tipps für den Start. Worauf kommt's an? Was sind Spaßfaktoren und was sind Spaßkiller? Naja, und dann: gleich mal ausprobieren. Kleine Kata aus der echten Praxis bringe ich mit.
 
 *Session-Leiter:* JAN LESSNER
 *Interessiert:* DEIN NAME (DEIN BEITRAG)
