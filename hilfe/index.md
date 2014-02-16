@@ -1,6 +1,20 @@
 # Hilfe
 
 ## Site-Hilfe
+
+### Profil
+
+- **Wie kann ich ein Profilbild hinterlegen?**
+Funktioniert aktuell nur über Gravatar. Wenn Deine hinterlegte E-Mail-Adresse bei Gravatar ein Bild hinterlegt hat, zeigen wir das.
+- **Kann ich mehr als eine E-Mail-Adresse hinterlegen?**
+Nein. Uns ist klar, dass dies eventuell beim Posten an eine Gruppe unangenehm ist. Leider ist dies mit unserem Listen-Backend nicht ganz einfach, mehrere Adressen für einen User zu verwalten.
+- **Kann ich meinen Nickname ändern?**
+Ja, das geht. Einfach das Profil bearbeiten.
+- **Kann ich meine E-Mail-Adresse ändern?**
+Ja, das geht. Einfach das Profil bearbeiten.
+- **Kann ich meine Authentifizierungsmethode ändern?**
+Ja. Du kannst auf Deiner Profilseite weitere Authentifizierungsdienste hinzufügen. Entfernen geht (noch) nicht automatisch.
+
 ### Aktivitäten anlegen und bearbeiten
 [[activities-hilfe]]
 
