@@ -15,6 +15,19 @@ Ja, das geht. Einfach das Profil bearbeiten.
 - **Kann ich meine Authentifizierungsmethode ändern?**
 Ja. Du kannst auf Deiner Profilseite weitere Authentifizierungsdienste hinzufügen. Entfernen geht (noch) nicht automatisch.
 
+### Gruppen
+
+- **Was hat es mit den Gruppen auf sich?**
+Die Gruppen repräsentieren regionale oder thematische Einheiten und sind gleichzeitig E-Mail-Listen.
+- **Warum erhalte ich immer Mails, wenn ich einer Gruppe beitrete oder austrete?**
+Das liegt daran, dass im Hintergrund ein "ganz normaler" Listenserver die Listen verwaltet. Dieser ist entsprechend konfiguriert.
+- **Kann ich aus einer Gruppe über E-Mail austreten?**
+Ja, das geht.
+- **Kann ich selbst eine eigene Regionalgruppe anlegen?**
+Ja, das geht über [diesen Link](/groups/new). Bitte mach das nicht aus Spaß! Achte beim Anlegen der Gruppe auf vorhandene Konventionen und halte Dich im Zweifelsfall daran. Wenn Du Fragen hast oder unsicher bist, wende Dich einfach an [Nicole](/members/Nicole) oder [Andreas](/members/leider) - wir helfen Dir gern.
+- **Kann ich Ansprechpartner in einer Gruppe werden?**
+Ja, wende Dich einfach an einen der Ansprechpartner der Gruppe, um die es Dir geht. Gehe verantwortungsvoll mit Deinen erweiterten Rechten um. Diese Site baut auf das Prinzip Vertrauen.
+
 ### Aktivitäten anlegen und bearbeiten
 [[activities-hilfe]]
 
