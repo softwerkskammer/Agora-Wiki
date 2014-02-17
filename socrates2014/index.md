@@ -9,6 +9,7 @@ Hier finden sich alle Informationen rund um die Organisation der [SoCraTes](/wik
 * [[TelkoProtokolle]]
 * [Arbeitsbereiche](Arbeitsbereiche)
 * [[EingeladeneBeruemteLeute]]
+* [[Programm]]
 
 ### Archiv
 
