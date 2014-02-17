@@ -8,6 +8,8 @@
 
 ## Einstieg: World Cafe
 
+[TODO entscheiden, wie wir's machen wollen, ggf. vorbereiten bzw. mit Pierluigi absprechen]
+
 * Tisch-Moderatoren vorher festlegen? (Wir bräuchten ganz schön viele)
 * Vielleicht mehrere Runden mit unterschiedlichen Impulsen machen
   * Wo stehst Du gerade, was könnte Dein nächster Schritt sein?
@@ -17,7 +19,7 @@
 
 ## Open Space
 
-* Keynotes? Wer könnte, und wem traut man das zu?
+* Keynotes? Wer könnte, und wem traut man das zu? [TODO entscheiden, was/wie wir wollen]
   * Uwe Friedrichsen: SWE hört nicht beim Coden auf (via Andreas Leidig)
 
 * Anfänger mehr einbeziehen / was willst du hier erreichen
@@ -28,14 +30,14 @@
 * Alternativprogramm / Casual / Sport / Musik
   * außrenrum ging bisher gut über Wiki (Laufen, Musik, Mäxle etc.)
   * im Vorfeld die Teilnehmer explizit einladen, nicht-technische Sessions anzubieten
-   (und ggf. Zubehör mitzubringen) [TODO Text über Open Space auf Webseite]
+   (und ggf. Zubehör mitzubringen) [TODO Text über Open Space auf Webseite / Anmeldemail]
 
 * Session-Incubator
   * wirkt kontraproduktiv zum Einstieg am Do / dem Marktplatz
   * braucht Betreuung, wenn's überhaupt was werden soll
   * stattdessen bei der Anmeldung Interessen abfragen: Was beschäftigt dich gerade?
    (dazusagen, wofür wir das fragen: erste Kontakte im Vorfeld herstellen)
-   [TODO Text für Anmeldebestätigungsmail]
+   [TODO Felder für Anmeldung klären]
   * Vielleicht Themenfrage noch ein paarmal anstupsen, z.B. via Twitter [TODO Twittern]
 
 
@@ -48,3 +50,4 @@
 * Teilnehmer vorher fragen, ob sie auch was anbieten wollen [TODO Text für Anmeldebestätigungsmail]
 * Voranmeldung für Sonntag als Ganzes, Präferenz für Workshop bei Anmeldung
   abfragen, aber endgültige Teilnahme während der Konferenz ausmachen
+  [TODO Felder für Anmeldung klären]
