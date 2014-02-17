@@ -17,9 +17,8 @@
 
 ## Open Space
 
-* Keynotes?
-* Wer könnte, und wem traut man das zu?
-  * Uwe Friedrichsen: SWE hört nicht beim Coden auf
+* Keynotes? Wer könnte, und wem traut man das zu?
+  * Uwe Friedrichsen: SWE hört nicht beim Coden auf (via Andreas Leidig)
 
 * Anfänger mehr einbeziehen / was willst du hier erreichen
   * Informationen im Vorfeld streuen, z.B.
@@ -27,10 +26,9 @@
 * Durch Moderator deutlicher anbieten: Schedule umbauen wenn gewünscht
 
 * Alternativprogramm / Casual / Sport / Musik
-  * außrenrum ging bisher gut über Wiki (laufen, Musik, Mäxle etc.)
+  * außrenrum ging bisher gut über Wiki (Laufen, Musik, Mäxle etc.)
   * im Vorfeld die Teilnehmer explizit einladen, nicht-technische Sessions anzubieten
-   (und ggf. Zubehör mitzubringen)
-
+   (und ggf. Zubehör mitzubringen) [TODO Text über Open Space auf Webseite]
 
 * Session-Incubator
   * wirkt kontraproduktiv zum Einstieg am Do / dem Marktplatz
