@@ -41,7 +41,7 @@
   * Vielleicht Themenfrage noch ein paarmal anstupsen, z.B. via Twitter [TODO Twittern]
 
 
-## Workshops am Sonntag
+## Workshops
 
 * Wer könnte was anbieten? [TODO: Leute anfragen]
   * Code Retreat (Game of life)
