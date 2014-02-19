@@ -11,6 +11,7 @@ Konferenz                                                                       
 [JFokus](http://jfokus.se) | Stockholm | 3.2. - 5.2.
 [OOP](http://www.oop-konferenz.de/)                                                                                            | München                 | 3.2. - 7.2.      
 [UK Tester Forums - Test Management Forum](http://uktmf.com/index.php?q=node/5271)                                             | London                  | 5.2.             
+[Agile Testing Day Niederlande](http://www.agiletestingday.nl) | Den Haag | 13.2.
 [SoCraMOB Open Space 2014.1](http://www.softwerkskammer.org/activities/socramob-openspace-2014-1) | Bielefeld               | 15.2.
 [Frankfurter Entwicklertag](http://www.entwicklertag.de/frankfurt/2014/)                                                       | Frankfurt               | 19.2.            
 [Play4Agile](http://play4agile.wordpress.com/)                                                                                 | Rückersbach             | 21.2. - 24.2.    
