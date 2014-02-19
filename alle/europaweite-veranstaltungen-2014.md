@@ -28,10 +28,11 @@ Stuttgarter Testtage                                                            
 `April`                                                                                                                        |                         |                  
 [CukeUp](https://cucumber.pro/cukeup/)| London | 3.4. - 4.4. 
 [BedCon](http://bed-con.org) | Berlin | 3.4. - 4.4. 
-[Agile Adria](http://agileadria.com/)                                                                                          | Terme Tuhelj (Kroatien) | 6.4. - 8.4.      
-[Codemotion](http://codemotionworld.com/roma/)                                                                                 | Rom                     | 9.4. - 12.4.     
-[CRAFT](http://craft-conf.com/2014/)                                                                            | Budapest                     | 24.4. - 25.4.     
-Agile Coach Camp NL                                                                                                            |                         |  
+[Agile Adria](http://agileadria.com/) | Terme Tuhelj (Kroatien) | 6.4. - 8.4.   
+[PIPELINE - The Continuous Delivery Conference](http://web.pipelineconf.info) | London | 8.4.   
+[Codemotion](http://codemotionworld.com/roma/)   | Rom                     | 9.4. - 12.4.     
+[CRAFT](http://craft-conf.com/2014/) | Budapest                     | 24.4. - 25.4.     
+Agile Coach Camp NL              |                         |  
 [NoSQL Matters Conference](http://2014.nosql-matters.org/cgn/) | Köln | 28.4. - 30.4.                
 `Mai`                                                                                                                          |                         |                  
 [Software Engineering + Architecture (SEACON)](http://www.sigs-datacom.de/seacon2013)                                          | Hamburg                 | 8.5. - 9.5.      
