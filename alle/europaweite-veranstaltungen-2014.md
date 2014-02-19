@@ -37,7 +37,8 @@ Agile Coach Camp NL                                                             
 [Software Engineering + Architecture (SEACON)](http://www.sigs-datacom.de/seacon2013)                                          | Hamburg                 | 8.5. - 9.5.      
 [Scotland JS](http://scotlandjs.com/)                                                                                          | Edinburgh               | 9.5. - 10.5.     
 [JAX](http://jax.de/2014/)                                                                                                     | Mainz                   | 12.5. - 16.5.    
-[GeeCON](http://2014.geecon.org/)                                                                                              | Krakau                  | 14.5. - 16.5.    
+[GeeCON](http://2014.geecon.org/)                                                                                              | Krakau                  | 14.5. - 16.5. 
+[PHP Unconference Europe](http://www.phpuceu.org/phpuceu-2014/) | Palma de Mallorca, Spanien | 17.5. - 18.5.   
 [ignite - The Conference for Software Quality and Testing](http://www.iqnite-conferences.com)                                  | Düsseldorf              | 20.5. - 22.5.    
 [Karlsruher Entwicklertag](http://entwicklertag.de/)                                                                           | Karlsruhe               | 21.5. - 23.5.    
 [DevSum](http://www.devsum.se/)                                                                                                | Stockholm               | 21.5. - 23.5.    
