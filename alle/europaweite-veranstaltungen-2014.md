@@ -21,6 +21,7 @@ Konferenz                                                                       
 [SIGIST (Specialist Group in Software Testing) Spring Conference](http://www.bcs.org/category/9264)                            | London                  | 11.3.            
 [Booster Conference](http://www.boosterconf.no/)                                                                               | Bergen                  | 12.3. - 14.3.    
 [Belgium Testing Days](http://btdconf.com/)                                                                                    | Brügge                  | 17.3. - 20.3.    
+[MobileTech Conference](http://mobiletechcon.de/2014se/) | München | 17.3. - 20.3.
 [DevCamp](http://www.nerd-zone.com/devcamp/)                                                                                   | Karlsruhe               | 21.3. - 23.3.    
 [JavaLand](http://www.javaland.eu)                                                                                             | Brühl, Phantasialand                        | 25.3. - 26.3.    
 [Scandinavian Developer Conference (SDC)](http://www.clocate.com/conference/SDC-2014-Scandinavian-Developer-Conference/12301/) | Göteborg                |                  
