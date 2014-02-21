@@ -14,7 +14,8 @@ Konferenz                                                                       
 [Agile Testing Day Niederlande](http://www.agiletestingday.nl) | Den Haag | 13.2.
 [SoCraMOB Open Space 2014.1](http://www.softwerkskammer.org/activities/socramob-openspace-2014-1) | Bielefeld               | 15.2.
 [Frankfurter Entwicklertag](http://www.entwicklertag.de/frankfurt/2014/)                                                       | Frankfurt               | 19.2.            
-[Play4Agile](http://play4agile.wordpress.com/)                                                                                 | Rückersbach             | 21.2. - 24.2.    
+[Play4Agile](http://play4agile.wordpress.com/)                                                                                 | Rückersbach             | 21.2. - 24.2.   
+[nor(DEV):con](http://nordevcon.com) | Norfolk, UK | 28.2.
 `März`                                                                                                                         |                         |                  
 [Qcon](http://qconlondon.com/)                                                                                                 | London                  | 5.3. - 7.3.      
 [Joy of Coding](http://lanyrd.com/2014/joyofcoding/)                                                                           | Rotterdam               | 7.3.             
