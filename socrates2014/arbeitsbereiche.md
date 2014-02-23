@@ -21,7 +21,7 @@ Die folgenden Bereiche wurden in der [Telko am 20. Okt 2013](telko20okt2013) ide
     * Ehemalige Teilnehmer direkt anschreiben
     * Auch internationale Gäste explizit und mit viel Vorlauf einladen
 
-* Experience & Programm
+* Experience & [[Programm]]
     * Wolfgang 
     * Was machen wir am Sonntag?
     * Wollen wir eine Keynote?
