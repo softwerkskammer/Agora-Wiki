@@ -25,9 +25,12 @@
  * [Docker](https://www.docker.io/) ist mit Go gebaut
 3. Book Club
  * [REST in Practice](http://restinpractice.com/book/)
- * [Notes to a Software Team Leader](https://leanpub.com/teamleader)
- * [The Clean Coder](http://www.amazon.de/The-Clean-Coder-Professional-Programmers/dp/0137081073)
+ * [Roy Osherove: Notes to a Software Team Leader](https://leanpub.com/teamleader)
+ * [Robert C. Martin: The Clean Coder](http://www.amazon.de/The-Clean-Coder-Professional-Programmers/dp/0137081073)
  * [Enterprise Integration Patterns](http://www.eaipatterns.com/)
- * [Patterns of Enterprise Application Architecture](http://martinfowler.com/books/eaa.html)
- * Bücher zum Thema Präsentieren (Tilmann) tbd
+ * [Martin Fowler: Patterns of Enterprise Application Architecture](http://martinfowler.com/books/eaa.html)
+ * [Kent Beck: Test Driven Development By Example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530)
  * [Sandro Mancuso: Software Craftsmanship](https://leanpub.com/socra)
+4. Arten von Tests
+ * Unit Tests, Integration Tests, Manuelles Testing, …
+ * Fachlich getriebene UI-Tests mit [Arquillian](http://arquillian.org/), Tilmann bereitet einen Vortrag für Karlsruher UG vor
