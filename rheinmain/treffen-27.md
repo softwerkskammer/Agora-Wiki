@@ -46,4 +46,11 @@
  * Explizit: var listBenutzer = new Benutzer();
  * Auch bei expliziter Zuweisung kann der Compiler Type Safety gewährleisten
  * Implizit hat Vorteile beim Refactoring
- * Beim Lesen des Codes können Typen auch stören (Stichwort verbose) 
+ * Beim Lesen des Codes können Typen auch stören (Stichwort verbose)
+6. Wie modularisierst du dein JavaScript?
+ * RequireJS
+ * Browser vs NodeJS?
+ * [AngularJS](http://angularjs.org/) als Basis
+
+#### Themenvorschläge nächstes Treffen
+ - Jeder bringt (s)eine „One Line of Code“ mit
