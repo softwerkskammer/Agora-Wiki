@@ -54,3 +54,4 @@
 
 #### Themenvorschläge nächstes Treffen
  - Jeder bringt (s)eine „One Line of Code“ mit
+ - [IBAN Kata](https://github.com/rradczewski/iban-kata) --> Evtl. würden wir hierfür einen ganzen Abend benötigen
