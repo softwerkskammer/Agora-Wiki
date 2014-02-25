@@ -29,4 +29,5 @@
  * [The Clean Coder](http://www.amazon.de/The-Clean-Coder-Professional-Programmers/dp/0137081073)
  * [Enterprise Integration Patterns](http://www.eaipatterns.com/)
  * [Patterns of Enterprise Application Architecture](http://martinfowler.com/books/eaa.html)
+ * Bücher zum Thema Präsentieren (Tilmann) tbd
  * [Sandro Mancuso: Software Craftsmanship](https://leanpub.com/socra)
