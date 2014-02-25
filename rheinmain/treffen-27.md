@@ -23,3 +23,6 @@
  * Toolchain: Build, Run, Test etc.
  * Single Binary File
  * [Docker](https://www.docker.io/) ist mit Go gebaut
+3. Book Club
+ * [REST in Practice](http://restinpractice.com/book/)
+ * [Notes to a Software Team Leader](https://leanpub.com/teamleader)
