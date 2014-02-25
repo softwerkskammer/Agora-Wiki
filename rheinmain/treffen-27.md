@@ -32,5 +32,8 @@
  * [Kent Beck: Test Driven Development By Example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530)
  * [Sandro Mancuso: Software Craftsmanship](https://leanpub.com/socra)
 4. Arten von Tests
- * Unit Tests, Integration Tests, Manuelles Testing, …
- * Fachlich getriebene UI-Tests mit [Arquillian](http://arquillian.org/), Tilmann bereitet einen Vortrag für Karlsruher UG vor
+ * Unit Tests, Integration Tests, BDD, Manuelles Testing, …
+ * Fachlich getriebene UI-Tests mit [Arquillian](http://arquillian.org/) / [Graphene](http://arquillian.org/blog/tags/graphene/), Tilmann bereitet einen Vortrag für Karlsruher UG vor
+ * Selenium Testsuite über [Grid](http://docs.seleniumhq.org/projects/grid/)
+ * Akzeptanz-Tests per „Living Documentation“
+ * Frontend-Testing mit [DalekJS](http://dalekjs.com/)
