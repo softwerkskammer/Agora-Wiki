@@ -17,3 +17,9 @@
  * Mini Open Space, wenn Räumlichkeiten geeignet
  * „One line of code“ wiederholen
 2. Golang
+ * http://golang.org/
+ * Kompilierte Sprache
+ * Von Google-Mitarbeitern, orientiert sich an C
+ * Toolchain: Build, Run, Test etc.
+ * Single Binary File
+ * [Docker](https://www.docker.io/) ist mit Go gebaut
