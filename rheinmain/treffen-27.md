@@ -46,4 +46,4 @@
  * Explizit: var listBenutzer = new Benutzer();
  * Auch bei expliziter Zuweisung kann der Compiler Type Safety gewährleisten
  * Implizit hat Vorteile beim Refactoring
- * 
+ * Beim Lesen des Codes können Typen auch stören (Stichwort verbose) 
