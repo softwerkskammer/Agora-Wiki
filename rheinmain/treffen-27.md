@@ -36,5 +36,8 @@
  * Fachlich getriebene UI-Tests mit [Arquillian](http://arquillian.org/) / [Graphene](http://arquillian.org/blog/tags/graphene/), Tilmann bereitet einen Vortrag für Karlsruher UG vor
  * Selenium Testsuite über [Grid](http://docs.seleniumhq.org/projects/grid/)
  * Akzeptanz-Tests per „Living Documentation“
- * Headless Browser [PhantomJS](http://phantomjs.org/)
  * Frontend-Testing mit [DalekJS](http://dalekjs.com/)
+5. Implizite vs. explizite Variablendeklaration in C#
+ * String Benutzername = GetName(id);
+ * var Benutzername  = GetName(id);
+ * var listBenutzer = new Benutzer();
