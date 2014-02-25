@@ -26,3 +26,7 @@
 3. Book Club
  * [REST in Practice](http://restinpractice.com/book/)
  * [Notes to a Software Team Leader](https://leanpub.com/teamleader)
+ * [The Clean Coder](http://www.amazon.de/The-Clean-Coder-Professional-Programmers/dp/0137081073)
+ * [Enterprise Integration Patterns](http://www.eaipatterns.com/)
+ * [Patterns of Enterprise Application Architecture](http://martinfowler.com/books/eaa.html)
+ * [Sandro Mancuso: Software Craftsmanship](https://leanpub.com/socra)
