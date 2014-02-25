@@ -1,5 +1,5 @@
 ### Themen Treffen #27
-http://www.softwerkskammer.org/activities/Treffen_27_der_Softwerkskammer_Rhein_Main
+(http://www.softwerkskammer.org/activities/Treffen_27_der_Softwerkskammer_Rhein_Main)
 
 #### Einführung / Vorstellungsrunde
 
