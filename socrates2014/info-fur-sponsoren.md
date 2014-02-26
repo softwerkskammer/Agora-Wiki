@@ -22,6 +22,3 @@ Additionally to Package B
 
 If you are interested in sponsoring, please contact
 Joachim Schirrmacher
-[j.schirrmacher@justso.de](mailto:j.schirrmacher@justso.de)
-+49 69 348 785 21
-+49 175 2763826
