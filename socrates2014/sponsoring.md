@@ -1,31 +1,6 @@
 ## Pakete
-Wir denken an drei mögliche Sponsoring-Pakete:
-### Paket A
-Kosten: 750€, dafür erhält der Sponsor:
-- Logo mit Link auf Website
-- SoCraTes-Logo auf eigener Website führen
-- 1 Ticketreservierung
 
-### Paket B
-Kosten: 2000€, Leistungen zusätzlich zu Paket A:
-- 2 weitere Ticketreservierungen
-- Erwähnung mit Link bei Mailingaktionen
-- Erwähnung mit Link in sozialen Netzwerken (Twitter, wo noch?)
-- Erwähnung bei der Begrüßung und am Ende der Konferenz
-- Auf Wunsch Einblenden eines Videos (max. 15 Sek.) zum Beginn und am Ende der Konferenz
-
-### Paket C
-Kosten: 5000€, Leistungen zusätzlich zu Paket B:
-- 2 weitere Ticketreservierungen
-- DIN A4 Info-Blatt für die Konferenz-Unterlagen
-- [Exklusive Präsentation (Logo, Infotisch) - müsste aber vom Sponsor selbst organisiert werden]
-
-Mit dieser Aufteilung würden wir bei 1 Paket C, 5 Paketen B und 14 Paketen A auf 25.500€ kommen.
-
-Es ist jedoch auch im Gespräch, Preisspannen für die Pakete festzulegen:
-- Paket A - 500-1000€
-- Paket B - 1000-2000€
-- Paket C - mehr als 2000€
+Siehe [Sponsoren-Flyer](info-fur-sponsoren)
 
 # Sponsoringvereinbarung
 [[https://docs.google.com/document/d/1sv2DNEt13U3UxsJ37l3d8yZIfIpKVohSN40KnQhDZvc]] (Entwurf)
