@@ -41,11 +41,10 @@
  * Akzeptanz-Tests per „Living Documentation“
  * Frontend-Testing mit [DalekJS](http://dalekjs.com/)
 5. Implizite vs. explizite Variablendeklaration in C#
- * Implizit: String Benutzername = GetName(id);
- * Explizit: var Benutzername  = GetName(id);
- * Explizit: var listBenutzer = new Benutzer();
- * Auch bei expliziter Zuweisung kann der Compiler Type Safety gewährleisten
- * Implizit hat Vorteile beim Refactoring
+ * Explizit: String Benutzername = GetName(id);
+ * Implizit: var Benutzername  = GetName(id);
+ * Auch bei impliziter Zuweisung kann der Compiler Type Safety gewährleisten
+ * Explizit hat Vorteile beim Refactoring
  * Beim Lesen des Codes können Typen auch stören (Stichwort verbose)
 6. Wie modularisierst du dein JavaScript?
  * RequireJS
