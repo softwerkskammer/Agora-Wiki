@@ -16,13 +16,13 @@ We invite you to sponsor the conference and help make this event happen. Dependi
 - You may send us a short video sequence (20 sec. max.) which we'll show at the beginning of our conference.
 - Plus all the benefits of the Basic-package, but ...
     - ... we allocate 3 tickets for you
-    - The printed logo may be of size A2. The print-out must be provided by you.
+    - ... the printed logo may be of size A2. The print-out must be provided by you.
 
 ### Premium
 - All the benefits of the Comfort-package, but ...
     - ... we allocate 5 tickets for you
     - ... the duration of your video can be 40 seconds.
-    - The printed logo may be of size A1. The print-out must be provided by you.
+    - ... the printed logo may be of size A1. The print-out must be provided by you.
 
 If you are interested in sponsoring, please contact
 Joachim Schirrmacher
