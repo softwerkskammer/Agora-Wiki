@@ -38,6 +38,7 @@ Stuttgarter Testtage                                                            
 Agile Coach Camp NL              |                         |  
 [NoSQL Matters Conference](http://2014.nosql-matters.org/cgn/) | Köln | 28.4. - 30.4.                
 `Mai`                                                                                                                          |                         |                  
+[Parallel](http://www.parallel2014.de/)                                          | Karlsruhe | 5.5. - 7.5.      
 [Software Engineering + Architecture (SEACON)](http://www.sigs-datacom.de/seacon2013)                                          | Hamburg                 | 8.5. - 9.5.      
 [Scotland JS](http://scotlandjs.com/)                                                                                          | Edinburgh               | 9.5. - 10.5.     
 [JAX](http://jax.de/2014/)                                                                                                     | Mainz                   | 12.5. - 16.5.    
@@ -62,7 +63,7 @@ Agile Coach Camp NL              |                         |
 [DDD eXchange](http://skillsmatter.com/event/design-architecture/ddd-exchange-2014)                                            | London                  | 20.6.            
 [Agile Coach Camp DE](http://agilecoachcamp.org/)                                                                              | Rückersbach             | 27.6. - 29.6.    
 [Software Practice Advancement (SPA) Conference](http://www.spaconference.org)                                                 | London                  | 29.6. - 2.7.     
-[Agile World](http://agileworld.de/)                                                                                           | München                 |                  
+[Agile World](http://agileworld.de/)                                                                                           | München                 | 30.6. - 1.7.                 
 `Juli`                                                                                                          |                         |                  
 [German Testing Day](http://www.germantestingday.info)                                                                         | Berlin                  | 2.7.             
 [Software Craftsmanship UK](http://www.codemanship.co.uk/softwarecraftsmanship/)     | Milton Keynes, UK   |                  
