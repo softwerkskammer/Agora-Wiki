@@ -36,7 +36,7 @@ Eine explizite Vereinbarung wird nicht mehr verfolgt, da kein echter Vertragspar
 
 # Offene Punkte / ToDo's
 - Entscheidung zu den Preisklassen
-- Info für Sponsoren ("Flyer") - Joachim
+- [[Info für Sponsoren]] ("Flyer") - Joachim
 - Flyer-Infos auf die Website bringen - Frank
 - Sponsoren-Kontakte ansprechen - Alle
 - Bestätigungen der Sponsoren einsammeln
