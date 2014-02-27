@@ -49,7 +49,7 @@ Agile Coach Camp NL              |                         |
 [DevSum](http://www.devsum.se/)                                                                                                | Stockholm               | 21.5. - 23.5.    
 [Berlin Buzzwords](http://berlinbuzzwords.de/) | Berlin | 25.5. - 28.5.
 [Let's Test](http://lets-test.com/)                                                                                            | Stockholm               | 26.5. - 28.5.    
-[Agile Dev Practices](http://www.agiledevpractices.com)                                                                        | Potsdam                 | 26.5. - 28.5.    
+[Agile Dev Practices](http://www.agiledevpractices.com)                                                                        | Potsdam                 | abgesagt    
 [Testing & Finance Europe](http://www.testingfinance.com/)                                                                     |                         |                  
 [XP - 15th International Conference on Agile Software Development](http://www.xp2014.org/)                                     | Rom                     | 26.5. - 30.5.    
 [I T.A.K.E Unconference](http://2014.itakeunconf.com/) | Bukarest, Rumänien | 29.5 - 30.5. |
