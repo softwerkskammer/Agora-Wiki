@@ -85,7 +85,8 @@ Agile Eastern Europe                                                            
 CITICON Europe - Continuous Integration and Testing Conference                                                                 |                         |                  
 EclipseCon Europe                                                                                                              |                         |                  
 UK Tester Forums - October Test Management Forum                                                                               |                         |                  
-`November` |  |                  
+`November` |  |  
+[Øredev](http://oredev.org) | Malmö, Schweden | 3.11. - 7.11.                
 [Tools4AgileTeams](http://tools4agileteams.com/display/2014/Tools4AgileTeams+2014)                                             | Wiesbaden               | 6.11.            
 [GOTO Berlin](http://gotocon.com/berlin-2014)                                                                                  | Berlin                  | 6.11. - 7.11.    
 [Agile Testing Days](http://www.agiletestingdays.com)                                                                          | Potsdam                 | 10.11. - 13.11.  
