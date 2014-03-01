@@ -79,10 +79,10 @@ Agile Coach Camp NL              |                         |
 SIGIST (Specialist Group in Software Testing) Autumn Conference                                                                |                         |                  
 Agile Cambridge                                                                                                                |                         |                  
 Agile Bodensee                                                                                                                 |                         |                  
-Agile Eastern Europe                                                                                                           |                         |                  
+Agile Eastern Europe                                                                                                           |                         |        
+[CITCON Europe - Continuous Integration and Testing Conference](http://www.citconf.com) | Zagreb |                            
 `Oktober`   |   |           
 [London Tester Gathering Workshops 2014](https://skillsmatter.com/conferences/1912-london-tester-gathering-workshops-2014#overview) | London | 16.10. - 17.10.       
-CITICON Europe - Continuous Integration and Testing Conference                                                                 |                         |                  
 EclipseCon Europe                                                                                                              |                         |                  
 UK Tester Forums - October Test Management Forum                                                                               |                         |                  
 `November` |  |  
