@@ -16,13 +16,13 @@ We invite you to sponsor the conference and help make this event happen. Dependi
 - You may send us a short video sequence (20 sec. max.) which we'll show at the beginning of our conference.
 - Plus all the benefits of the Basic-package, and ...
     - ... we allocate 3 tickets for you
-    - ... the printed logo may be of size A2. The print-out must be provided by you.
+    - ... the printed logo may be of size A2. 
 
 ### Premium
 - All the benefits of the Comfort-package, and ...
     - ... we allocate 5 tickets for you
     - ... the duration of your video can be 40 seconds.
-    - ... the printed logo may be of size A1. The print-out must be provided by you.
+    - ... the printed logo may be of size A1. Alternatively you can place a single [Roll-Up](http://grafika.sk/mods/clanek_image.php?action=bimg&id=5535) into the plenum room of the conference instead of a printed logo.
 
 If you are interested in sponsoring, please contact
 Joachim Schirrmacher
