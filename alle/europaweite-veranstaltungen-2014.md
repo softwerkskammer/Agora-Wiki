@@ -57,6 +57,7 @@ Agile Coach Camp NL              |                         |
 [Norwegian Developers Conference - NDC](http://www.ndcoslo.com/)                                                | Oslo                  | 2.6. - 6.6. 
 [33rd Degree: Conference for Java Masters](http://2014.33degree.org/)                                                          | Krakau                  | 9.6. - 11.6.     
 [SoCraTes UK](http://socratesuk.org)                                                                                           | Cotswolds               | 12.6. - 15.6.    
+[.NET Developer Conference 2014](http://www.dotnet-developer-conference.de/)                                                   | Nürnberg                | 14.6. - 17.6.    
 [Best Practices in Software Development - The ACE Conference (Agile Central Europe)](http://aceconf.com/)                      | Krakow                  | 16.6. - 17.6.    
 [GOTO Copenhagen](http://gotocon.com/cph-2014)                                                                                 | Kopenhagen              | 16.6. - 18.6.    
 [International Software Development Conference - GOTO Conference](http://gotocon.com/amsterdam-2014)                           | Amsterdam               | 18.6. - 20.6.    
