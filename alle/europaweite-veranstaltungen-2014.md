@@ -79,6 +79,7 @@ Agile Coach Camp NL              |                         |
 `September`     |    |                  
 [Herbstcampus](http://www.herbstcampus.de)                                                                                     | Nürnberg                | 1.9. - 4.9.      
 [GOTO Aarhus](http://gotocon.com//aarhus-2013)                                                                                 | Aarhus, Dänemark        | 29.9. - 1.10.    
+[2. Coach Reflection Day](http://coreday.jimdo.com/events/)                                                                    | Fürth                   | 
 SIGIST (Specialist Group in Software Testing) Autumn Conference                                                                |                         |                  
 Agile Cambridge                                                                                                                |                         |                  
 Agile Bodensee                                                                                                                 |                         |                  
